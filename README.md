@@ -21,8 +21,8 @@ If you want to search & filters the complete database of [.OBSERVER one word dom
 
 | Domain              | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.observer        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.observer      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.observer        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.observer      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.observer  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.observer      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.observer  | premium   | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.OBSERVER one word dom
 | abatic.observer     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.observer    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.observer   | available | 50       | 1%     | 8      |           |         |         |
-| abc.observer        | available | 102      | 41%    | 3      |           |         |         |
+| abc.observer        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.observer  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.observer  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.observer | available | 56       | 1%     | 10     |           |         |         |
