@@ -78,10 +78,10 @@ print(df.head())
 | power.observer      | premium   | $1,040    | $1,040        | 98             | 62     | 5      | namecheap   |
 | nimble.observer     | available | $15.99    | $15.99        | 94             | 33     | 6      | name.com    |
 | keen.observer       | resell    | —         | —             | 64             | 26     | 4      | Gandi SAS   |
-| free.observer       | premium   | $1,000    | $1,000        | 88             | 59     | 4      | name.com    |
+| cloud.observer      | premium   | $1,040    | $1,040        | 70             | 59     | 5      | namecheap   |
 | bread.observer      | available | $16.98    | —             | 102            | 31     | 5      | namecheap   |
 | apostolic.observer  | resell    | —         | —             | 47             | 6      | 9      | Porkbun LLC |
-| cloud.observer      | premium   | $1,040    | $1,040        | 70             | 59     | 5      | namecheap   |
+| ace.observer        | premium   | $1,000    | $1,000        | 88             | 57     | 3      | name.com    |
 | ethereal.observer   | available | $15.99    | $15.99        | 88             | 31     | 8      | name.com    |
 | grabby.observer     | resell    | —         | —             | 72             | 5      | 6      | NAMECHEAP   |
 
