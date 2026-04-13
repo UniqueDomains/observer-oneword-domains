@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C584%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C585%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C584%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
@@ -14,9 +14,9 @@ Daily-updated dataset of available and resale .observer one-word domains from Un
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,584 rows · **Live catalog:** 9,584 domains
+**Public extract:** 9,585 rows · **Live catalog:** 9,584 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/observer`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .OBSERVER one-word dom
 
 ### Files
 
-- `observer.csv` — public CSV extract (9,584 rows)
-- `observer.json` — public JSON extract (9,584 rows)
+- `observer.csv` — public CSV extract (9,585 rows)
+- `observer.json` — public JSON extract (9,585 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -70,19 +70,19 @@ print(df.head())
 | athletics.observer  | available | $16.98    | —             | 69             | 52     | 9      | namecheap   |
 | taco.observer       | resell    | —         | —             | 76             | 35     | 4      | Porkbun LLC |
 | easy.observer       | premium   | $1,000    | $1,000        | 128            | 68     | 4      | name.com    |
-| awake.observer      | available | $15.99    | —             | 86             | 39     | 5      | name.com    |
+| awake.observer      | available | $15.99    | —             | 86             | 38     | 5      | name.com    |
 | graph.observer      | resell    | —         | —             | 92             | 32     | 5      | NAMECHEAP   |
 | nationwide.observer | premium   | $1,000    | $1,000        | 76             | 66     | 10     | name.com    |
 | goon.observer       | available | $15.99    | $15.99        | 80             | 35     | 5      | name.com    |
 | patent.observer     | resell    | —         | —             | 96             | 27     | 6      | NAMECHEAP   |
 | power.observer      | premium   | $1,040    | $1,040        | 98             | 62     | 5      | namecheap   |
 | nimble.observer     | available | $15.99    | $15.99        | 94             | 33     | 6      | name.com    |
-| keen.observer       | resell    | —         | —             | 64             | 27     | 4      | Gandi SAS   |
+| keen.observer       | resell    | —         | —             | 64             | 26     | 4      | Gandi SAS   |
 | free.observer       | premium   | $1,000    | $1,000        | 88             | 59     | 4      | name.com    |
-| ethereal.observer   | available | $15.99    | $15.99        | 88             | 32     | 8      | name.com    |
+| bread.observer      | available | $16.98    | —             | 102            | 31     | 5      | namecheap   |
 | apostolic.observer  | resell    | —         | —             | 47             | 6      | 9      | Porkbun LLC |
 | cloud.observer      | premium   | $1,040    | $1,040        | 70             | 59     | 5      | namecheap   |
-| bread.observer      | available | $16.98    | —             | 102            | 31     | 5      | namecheap   |
+| ethereal.observer   | available | $15.99    | $15.99        | 88             | 31     | 8      | name.com    |
 | grabby.observer     | resell    | —         | —             | 72             | 5      | 6      | NAMECHEAP   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,584-row public sample | 9,584 live domains                               |
+| 9,585-row public sample | 9,584 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .OBSERVER One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .OBSERVER One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
