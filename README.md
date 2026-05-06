@@ -1,10 +1,10 @@
-# Available .OBSERVER One-Word Domains (12,551)
+# Available .OBSERVER One-Word Domains (12,553)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C551%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C553%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .observer one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,551 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,553 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,551 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,553 domains · **Median ask:** $95.38 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/observer`  
 **Best for:** founders, investors, studios
 
@@ -64,11 +64,19 @@ print(df.head())
 
 | domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| Acup.observer         | available | $16.98    | —             | 80             | 5      | 5      | namecheap |
+| Trex.observer         | available | $16.98    | —             | 80             | 24     | 5      | namecheap |
+| useit.observer        | available | $15.99    | —             | 94             | 7      | 6      | name.com  |
+| dogsit.observer       | available | $15.99    | —             | 96             | 2      | 6      | name.com  |
+| playin.observer       | available | $15.99    | —             | 80             | 10     | 7      | name.com  |
+| dogsick.observer      | available | $15.99    | —             | 90             | 1      | 7      | name.com  |
+| leaveon.observer      | available | $15.99    | —             | 80             | 1      | 8      | name.com  |
+| lightup.observer      | available | $15.99    | —             | 82             | 15     | 8      | name.com  |
+| surebet.observer      | available | $15.99    | —             | 82             | 8      | 8      | name.com  |
 | prompts.observer      | available | $10.99    | $10.99        | 54             | 39     | 7      | namesilo  |
 | insight.observer      | premium   | $1,000    | —             | 76             | 69     | 8      | name.com  |
 | commonground.observer | available | $15.99    | —             | 74             | 28     | 13     | name.com  |
 | farmers.observer      | premium   | $25       | —             | 54             | 59     | 7      | name.com  |
-| Trex.observer         | available | $16.98    | —             | 80             | 24     | 5      | namecheap |
 | agents.observer       | premium   | $1,000    | —             | 56             | 50     | 6      | name.com  |
 | deeplearning.observer | available | $15.99    | —             | 74             | 23     | 13     | name.com  |
 | cars.observer         | premium   | $1,000    | —             | 66             | 47     | 4      | name.com  |
@@ -76,14 +84,6 @@ print(df.head())
 | events.observer       | premium   | $1,250    | —             | 68             | 37     | 6      | name.com  |
 | unicorns.observer     | available | $15.99    | —             | 73             | 21     | 8      | name.com  |
 | homes.observer        | premium   | $11,250   | —             | 86             | 34     | 5      | name.com  |
-| HarryPotter.observer  | available | $16.98    | —             | 72             | 20     | 12     | namecheap |
-| tickets.observer      | premium   | $11.80    | $11.80        | 64             | 34     | 7      | namesilo  |
-| rivals.observer       | available | $10.99    | $10.99        | 48             | 20     | 6      | namesilo  |
-| etc.observer          | premium   | $31.25    | —             | 58             | 34     | 3      | name.com  |
-| stronger.observer     | available | $15.99    | —             | 67             | 19     | 8      | name.com  |
-| partners.observer     | premium   | $1,000    | —             | 61             | 32     | 8      | name.com  |
-| breakingnews.observer | available | $15.99    | —             | 66             | 19     | 13     | name.com  |
-| trends.observer       | premium   | $1,000    | —             | 60             | 32     | 6      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,551 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,553 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+These domains are one-word names on the .observer extension. The set includes dictionary-style words, action phrases compressed into one token, and short brandable forms such as Acup.observer, useit.observer, edamame.observer, and gearup.observer. With a median ask of 95.38, the selection sits in a low upfront price range, but the extension itself is specialized. When comparing these domains, focus on whether the word still reads cleanly with .observer, whether the combined meaning feels credible for a brand or publication, and whether renewal cost and long-term resale demand fit your risk tolerance.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Check if the keyword pairs naturally with .observer
+- Favor clear words over awkward or forced combinations
+- Use ask price with renewal cost to judge total hold risk
+- Treat niche-TLD resale demand as more selective
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .OBSERVER One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .OBSERVER One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
