@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .observer one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,553 domains · **Median ask:** $95.38 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/observer`  
 **Best for:** founders, investors, studios
 
@@ -72,7 +72,7 @@ print(df.head())
 | dogsick.observer      | available | $15.99    | —             | 90             | 1      | 7      | name.com  |
 | leaveon.observer      | available | $15.99    | —             | 80             | 1      | 8      | name.com  |
 | lightup.observer      | available | $15.99    | —             | 82             | 15     | 8      | name.com  |
-| surebet.observer      | available | $15.99    | —             | 82             | 8      | 8      | name.com  |
+| surebet.observer      | available | $15.99    | —             | 82             | 7      | 8      | name.com  |
 | prompts.observer      | available | $10.99    | $10.99        | 54             | 39     | 7      | namesilo  |
 | insight.observer      | premium   | $1,000    | —             | 76             | 69     | 8      | name.com  |
 | commonground.observer | available | $15.99    | —             | 74             | 28     | 13     | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .OBSERVER One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .OBSERVER One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
