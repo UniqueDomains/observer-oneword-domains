@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .observer one-word domains 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,553 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,553 domains · **Median ask:** $95.38 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,553 domains · **Median ask:** $110.11 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/observer`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/observer`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .OBSERVER one-word dom
 
 ### Files
 
-- `observer.csv` — public CSV extract (1,000 rows)
-- `observer.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `observer.csv`, public CSV extract (1,000 rows)
+- `observer.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Acup.observer         | available | $16.98    | —             | 80             | 5      | 5      | namecheap |
-| Trex.observer         | available | $16.98    | —             | 80             | 24     | 5      | namecheap |
-| useit.observer        | available | $15.99    | —             | 94             | 7      | 6      | name.com  |
-| dogsit.observer       | available | $15.99    | —             | 96             | 2      | 6      | name.com  |
-| playin.observer       | available | $15.99    | —             | 80             | 10     | 7      | name.com  |
-| dogsick.observer      | available | $15.99    | —             | 90             | 1      | 7      | name.com  |
-| leaveon.observer      | available | $15.99    | —             | 80             | 1      | 8      | name.com  |
-| lightup.observer      | available | $15.99    | —             | 82             | 15     | 8      | name.com  |
-| surebet.observer      | available | $15.99    | —             | 82             | 7      | 8      | name.com  |
-| prompts.observer      | available | $10.99    | $10.99        | 54             | 39     | 7      | namesilo  |
-| insight.observer      | premium   | $1,000    | —             | 76             | 69     | 8      | name.com  |
-| commonground.observer | available | $15.99    | —             | 74             | 28     | 13     | name.com  |
-| farmers.observer      | premium   | $25       | —             | 54             | 59     | 7      | name.com  |
-| agents.observer       | premium   | $1,000    | —             | 56             | 50     | 6      | name.com  |
-| deeplearning.observer | available | $15.99    | —             | 74             | 23     | 13     | name.com  |
-| cars.observer         | premium   | $1,000    | —             | 66             | 47     | 4      | name.com  |
-| stadia.observer       | available | $15.99    | —             | 66             | 22     | 6      | name.com  |
-| events.observer       | premium   | $1,250    | —             | 68             | 37     | 6      | name.com  |
-| unicorns.observer     | available | $15.99    | —             | 73             | 21     | 8      | name.com  |
-| homes.observer        | premium   | $11,250   | —             | 86             | 34     | 5      | name.com  |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| ages.observer | available | $10.99    | $10.99        | medium         | low    | 4      | namesilo  |
+| keen.observer | resell    | —         | —             | medium         | low    | 4      | Gandi SAS |
+| ala.observer  | premium   | $29.50    | $29.50        | high           | low    | 3      | namesilo  |
+| ahuh.observer | available | $10.99    | $10.99        | high           | low    | 4      | namesilo  |
+| ale.observer  | premium   | $11.80    | $11.80        | medium         | low    | 3      | namesilo  |
+| also.observer | available | $10.99    | $10.99        | high           | low    | 4      | namesilo  |
+| ate.observer  | premium   | $11.80    | $11.80        | high           | low    | 3      | namesilo  |
+| both.observer | available | $10.99    | $10.99        | high           | low    | 4      | namesilo  |
+| beg.observer  | premium   | $11.80    | $11.80        | medium         | low    | 3      | namesilo  |
+| brie.observer | available | $15.99    | —             | high           | low    | 4      | name.com  |
+| big.observer  | premium   | $1,000    | $1,000        | high           | medium | 3      | name.com  |
+| came.observer | available | $10.99    | $10.99        | high           | low    | 4      | namesilo  |
+| bio.observer  | premium   | $29.50    | $29.50        | high           | medium | 3      | namesilo  |
+| chop.observer | available | $10.99    | $10.99        | medium         | low    | 4      | namesilo  |
+| DIY.observer  | premium   | $854      | $854          | high           | low    | 3      | namesilo  |
+| flew.observer | available | $10.99    | $10.99        | high           | low    | 4      | namesilo  |
+| eat.observer  | premium   | $11.80    | $11.80        | high           | low    | 3      | namesilo  |
+| flop.observer | available | $10.99    | $10.99        | medium         | low    | 4      | namesilo  |
+| fig.observer  | premium   | $11.80    | $11.80        | medium         | low    | 3      | namesilo  |
+| lust.observer | available | $10.99    | $10.99        | high           | low    | 4      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are one-word names on the .observer extension. The set includes dictionary-style words, action phrases compressed into one token, and short brandable forms such as Acup.observer, useit.observer, edamame.observer, and gearup.observer. With a median ask of 95.38, the selection sits in a low upfront price range, but the extension itself is specialized. When comparing these domains, focus on whether the word still reads cleanly with .observer, whether the combined meaning feels credible for a brand or publication, and whether renewal cost and long-term resale demand fit your risk tolerance.
+This list of .observer domain names ranges from single words like criteria, tips, and matcha to descriptive compounds such as solarenergy and neuroscience. With a median asking price near $110 across 12,553 domains, this .observer selection offers wide TLD coverage for buyers comparing cost, brandability, and category fit before committing to a name.
 
-- Check if the keyword pairs naturally with .observer
-- Favor clear words over awkward or forced combinations
-- Use ask price with renewal cost to judge total hold risk
-- Treat niche-TLD resale demand as more selective
+- 12,553 .observer domain names in this selection
+- Median asking price near $110 across listings
+- Mix of one-word terms and brandable compounds
+- Updated daily for current pricing and availability
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .OBSERVER One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .OBSERVER One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
