@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .observer one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,617 domains · **Median ask:** $64.30 · **High-demand under $2,500:** 30
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/observer`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| correct.observer | premium   | $13       | $13           | high           | low    | 7      | namecheap |
-| period.observer  | premium   | $29.50    | $29.50        | high           | low    | 6      | namesilo  |
-| ages.observer    | available | $10.99    | $10.99        | medium         | low    | 4      | namesilo  |
-| keen.observer    | resell    | —         | —             | medium         | low    | 4      | Gandi SAS |
-| ala.observer     | premium   | $29.50    | $29.50        | high           | low    | 3      | namesilo  |
-| ahuh.observer    | available | $10.99    | $10.99        | high           | low    | 4      | namesilo  |
-| ale.observer     | premium   | $11.80    | $11.80        | medium         | low    | 3      | namesilo  |
-| also.observer    | available | $10.99    | $10.99        | high           | low    | 4      | namesilo  |
-| ate.observer     | premium   | $11.80    | $11.80        | high           | low    | 3      | namesilo  |
-| arum.observer    | available | $10.99    | $10.99        | low            | low    | 4      | namesilo  |
-| beg.observer     | premium   | $11.80    | $11.80        | medium         | low    | 3      | namesilo  |
-| both.observer    | available | $10.99    | $10.99        | high           | low    | 4      | namesilo  |
-| big.observer     | premium   | $1,000    | $1,000        | high           | medium | 3      | name.com  |
-| brie.observer    | available | $15.99    | —             | high           | low    | 4      | name.com  |
-| bio.observer     | premium   | $29.50    | $29.50        | high           | medium | 3      | namesilo  |
-| came.observer    | available | $10.99    | $10.99        | high           | low    | 4      | namesilo  |
-| DIY.observer     | premium   | $854      | $854          | high           | low    | 3      | namesilo  |
-| chop.observer    | available | $10.99    | $10.99        | medium         | low    | 4      | namesilo  |
-| eat.observer     | premium   | $11.80    | $11.80        | high           | low    | 3      | namesilo  |
-| dewy.observer    | available | $10.99    | $10.99        | low            | low    | 4      | namesilo  |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| ages.observer | available | $10.99    | $10.99        | medium         | low    | 4      | namesilo  |
+| keen.observer | resell    | —         | —             | medium         | low    | 4      | Gandi SAS |
+| ala.observer  | premium   | $29.50    | $29.50        | high           | low    | 3      | namesilo  |
+| ahuh.observer | available | $10.99    | $10.99        | high           | low    | 4      | namesilo  |
+| ale.observer  | premium   | $11.80    | $11.80        | medium         | low    | 3      | namesilo  |
+| also.observer | available | $10.99    | $10.99        | high           | low    | 4      | namesilo  |
+| ate.observer  | premium   | $11.80    | $11.80        | high           | low    | 3      | namesilo  |
+| arum.observer | available | $10.99    | $10.99        | low            | low    | 4      | namesilo  |
+| beg.observer  | premium   | $11.80    | $11.80        | medium         | low    | 3      | namesilo  |
+| both.observer | available | $10.99    | $10.99        | high           | low    | 4      | namesilo  |
+| big.observer  | premium   | $1,000    | $1,000        | high           | medium | 3      | name.com  |
+| brie.observer | available | $15.99    | —             | high           | low    | 4      | name.com  |
+| bio.observer  | premium   | $29.50    | $29.50        | high           | medium | 3      | namesilo  |
+| came.observer | available | $10.99    | $10.99        | high           | low    | 4      | namesilo  |
+| DIY.observer  | premium   | $854      | $854          | high           | low    | 3      | namesilo  |
+| chop.observer | available | $10.99    | $10.99        | medium         | low    | 4      | namesilo  |
+| eat.observer  | premium   | $11.80    | $11.80        | high           | low    | 3      | namesilo  |
+| dewy.observer | available | $10.99    | $10.99        | low            | low    | 4      | namesilo  |
+| fig.observer  | premium   | $11.80    | $11.80        | medium         | low    | 3      | namesilo  |
+| flew.observer | available | $10.99    | $10.99        | high           | low    | 4      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .OBSERVER One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .OBSERVER One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
