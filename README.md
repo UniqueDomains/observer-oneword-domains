@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .observer one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 25,245 domains · **Median ask:** $56.37 · **High-demand under $2,500:** 36
 
-**Last updated:** 2026-09-15
+**Last updated:** 2026-09-16
 **Canonical page:** `https://unique.domains/domains/tld/observer`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| ages.observer | available | $10.99    | $10.99        | medium         | low    | 4      | namesilo  |
-| keen.observer | resell    | —         | —             | medium         | low    | 4      | Gandi SAS |
-| ala.observer  | premium   | $29.50    | $29.50        | high           | low    | 3      | namesilo  |
-| ahuh.observer | available | $10.99    | $10.99        | high           | low    | 4      | namesilo  |
-| ale.observer  | premium   | $11.80    | $11.80        | medium         | low    | 3      | namesilo  |
-| also.observer | available | $10.99    | $10.99        | high           | low    | 4      | namesilo  |
-| ate.observer  | premium   | $11.80    | $11.80        | high           | low    | 3      | namesilo  |
-| arum.observer | available | $10.99    | $10.99        | low            | low    | 4      | namesilo  |
-| beg.observer  | premium   | $11.80    | $11.80        | medium         | low    | 3      | namesilo  |
-| both.observer | available | $10.99    | $10.99        | high           | low    | 4      | namesilo  |
-| big.observer  | premium   | $1,000    | $1,000        | high           | medium | 3      | name.com  |
-| brie.observer | available | $15.99    | —             | high           | low    | 4      | name.com  |
-| bio.observer  | premium   | $29.50    | $29.50        | high           | medium | 3      | namesilo  |
-| came.observer | available | $10.99    | $10.99        | high           | low    | 4      | namesilo  |
-| DIY.observer  | premium   | $854      | $854          | high           | low    | 3      | namesilo  |
-| chop.observer | available | $10.99    | $10.99        | medium         | low    | 4      | namesilo  |
-| eat.observer  | premium   | $11.80    | $11.80        | high           | low    | 3      | namesilo  |
-| dewy.observer | available | $10.99    | $10.99        | low            | low    | 4      | namesilo  |
-| fig.observer  | premium   | $11.80    | $11.80        | medium         | low    | 3      | namesilo  |
-| flew.observer | available | $10.99    | $10.99        | high           | low    | 4      | namesilo  |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| correct.observer | premium   | $13       | $13           | high           | low    | 7      | namecheap |
+| ages.observer    | available | $10.99    | $10.99        | medium         | low    | 4      | namesilo  |
+| keen.observer    | resell    | —         | —             | medium         | low    | 4      | Gandi SAS |
+| ala.observer     | premium   | $29.50    | $29.50        | high           | low    | 3      | namesilo  |
+| ahuh.observer    | available | $10.99    | $10.99        | high           | low    | 4      | namesilo  |
+| ale.observer     | premium   | $11.80    | $11.80        | medium         | low    | 3      | namesilo  |
+| also.observer    | available | $10.99    | $10.99        | high           | low    | 4      | namesilo  |
+| ate.observer     | premium   | $11.80    | $11.80        | high           | low    | 3      | namesilo  |
+| arum.observer    | available | $10.99    | $10.99        | low            | low    | 4      | namesilo  |
+| beg.observer     | premium   | $11.80    | $11.80        | medium         | low    | 3      | namesilo  |
+| both.observer    | available | $10.99    | $10.99        | high           | low    | 4      | namesilo  |
+| big.observer     | premium   | $1,000    | $1,000        | high           | medium | 3      | name.com  |
+| brie.observer    | available | $15.99    | —             | high           | low    | 4      | name.com  |
+| bio.observer     | premium   | $29.50    | $29.50        | high           | medium | 3      | namesilo  |
+| came.observer    | available | $10.99    | $10.99        | high           | low    | 4      | namesilo  |
+| DIY.observer     | premium   | $854      | $854          | high           | low    | 3      | namesilo  |
+| chop.observer    | available | $10.99    | $10.99        | medium         | low    | 4      | namesilo  |
+| eat.observer     | premium   | $11.80    | $11.80        | high           | low    | 3      | namesilo  |
+| dewy.observer    | available | $10.99    | $10.99        | low            | low    | 4      | namesilo  |
+| fig.observer     | premium   | $11.80    | $11.80        | medium         | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -115,6 +115,7 @@ If this sample already feels useful, Unique Domains is where the exact search be
 - `registrar`, Registrar name when known.
 - `created_at`, Creation timestamp when known.
 - `expires_at`, Expiry timestamp when known.
+- `status_verified_at`, When status was last established against the registry. Null means never checked.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
@@ -132,6 +133,7 @@ See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 ## 🔄 Update policy
 
 - This repository is refreshed regularly from the same export pipeline used for public dataset repos.
+- The snapshot date above is when this file was written, not when each row was checked. Read `status_verified_at` for that: a name whose status was last established months ago is exported with its real date rather than the snapshot's.
 - The README count targets the live catalog count from the public landing response when available.
 - The CSV and JSON files contain the public extract only and may not match the full live catalog size.
 - Stable historical references should be published via GitHub Releases outside this repository snapshot.
@@ -142,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .OBSERVER One-Word Domains*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .OBSERVER One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
