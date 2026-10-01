@@ -1,6 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 7ae34f1d-ef1c-4282-a423-d5fd84f3d74b,baseboard.observer,available,10.99,10.99,medium,low,9,namesilo,,,22/09/2026 10:08
-efbfbcc5-bea0-4141-a9be-a9ec9883c291,invertible.observer,available,10.99,10.99,high,low,10,namesilo,,,22/08/2026 09:00
+efbfbcc5-bea0-4141-a9be-a9ec9883c291,invertible.observer,available,10.99,10.99,medium,low,10,namesilo,,,22/08/2026 09:00
 6bfad0b9-9d6e-4d13-aee8-67fa1de8c228,tapestry.observer,premium,13,13,high,low,8,namecheap,,,20/09/2026 08:48
 6c1dbac5-bb66-4f0b-acd7-aeb3bd0a9ca5,pint.observer,available,9.2,9.2,medium,low,4,cloudflare,,,29/09/2026 12:06
 d722175e-ebc8-4a09-bbd9-e1d3543a1e59,unfair.observer,premium,11.8,11.8,medium,low,6,namesilo,,,28/09/2026 09:45
@@ -10,7 +10,7 @@ dc5f26b8-e42e-4346-896d-472f44621626,pediatric.observer,premium,11.8,11.8,high,l
 8258b89d-e0a1-463f-ba51-c37f19d740bc,tub.observer,premium,11.8,11.8,high,low,3,namesilo,,,29/09/2026 01:33
 50d473ef-223f-4252-b917-ae5549d25f15,classics.observer,premium,13,13,high,low,8,namecheap,,,28/09/2026 13:44
 4467dda4-9af9-4390-ba7f-161dee44bb2d,packer.observer,available,10.99,10.99,high,low,6,namesilo,,,21/09/2026 15:45
-adcd5723-4b64-4553-850e-3b4e9932e189,measuring.observer,available,15.99,,high,low,9,name.com,,,
+adcd5723-4b64-4553-850e-3b4e9932e189,measuring.observer,available,9.49,9.49,high,low,9,spaceship,,,30/09/2026 04:12
 5ff8353c-29fd-4829-8bf5-35698fe56c7d,able.observer,premium,29.5,29.5,high,low,4,namesilo,,,21/09/2026 13:57
 65c5c481-b62e-4090-8dc1-b43578325730,jaunty.observer,available,10.99,10.99,medium,low,6,namesilo,,,12/08/2026 06:01
 302f5662-4934-4ffe-8dd1-e1d9a37698cd,professional.observer,premium,854,854,high,low,12,namesilo,,,25/09/2026 11:40
@@ -25,35 +25,41 @@ fbf1cb32-d064-4666-93bc-c1cc762e3ad5,hungarian.observer,premium,11.8,11.8,high,l
 f5a8929d-f3e6-4a04-a994-6fde8bbd153d,swimmer.observer,available,10.99,10.99,high,low,7,namesilo,,,22/09/2026 13:29
 3e89fb0a-838b-49a2-b67b-08ac88d01808,bellman.observer,available,10.99,10.99,medium,low,7,namesilo,,,23/09/2026 06:01
 9330c347-638b-45eb-906e-8e7051cfd274,recruit.observer,premium,13,13,high,low,7,namecheap,,,28/09/2026 14:02
-1582b508-c993-447e-a12c-162bd8f2f778,stepson.observer,available,15.99,,high,low,7,name.com,,,
+4f822539-2614-48fc-85ff-7c60e1091614,availability.observer,premium,10.55,10.55,high,low,12,spaceship,,,30/09/2026 05:58
+1582b508-c993-447e-a12c-162bd8f2f778,stepson.observer,available,9.2,9.2,high,low,7,cloudflare,,,30/09/2026 12:01
 dadd1c44-883f-4f4c-82b4-13a21d08c20c,basso.observer,available,10.99,10.99,medium,low,5,namesilo,,,22/09/2026 11:59
 ef085533-b0e2-47c5-b623-0d76ee51f7e6,australian.observer,premium,1040,1040,high,low,10,namecheap,,,22/09/2026 13:30
-99bcbb46-acb0-4af6-a8a5-56473b3ae780,lowered.observer,available,10.99,10.99,high,low,7,namesilo,,,25/09/2026 15:26
+99bcbb46-acb0-4af6-a8a5-56473b3ae780,lowered.observer,available,10.99,10.99,medium,low,7,namesilo,,,25/09/2026 15:26
 5210b9ee-aed2-4496-8ba2-4053a964cb4c,bankruptcy.observer,premium,23.6,23.6,high,low,10,namesilo,,,22/09/2026 02:50
 941d407c-f0c4-4502-8bff-e892e942edba,composite.observer,available,10.99,10.99,high,low,9,namesilo,,,23/09/2026 17:39
 b2779a25-5925-41a6-a7f6-790a78aeb1c7,stared.observer,available,10.99,10.99,medium,low,6,namesilo,,,18/09/2026 02:18
 3d9ad2b7-ed3f-48f4-8aa9-258ae5c0c324,amsterdam.observer,premium,854,854,high,low,9,namesilo,,,19/09/2026 00:08
-fe385c67-2367-4a03-95e7-4ababb03edcb,oper.observer,available,9.49,9.49,high,low,4,spaceship,,,28/09/2026 21:34
-3cf2bf6f-0e80-47b7-ad02-5066de063eba,grayson.observer,premium,20.9,20.9,high,low,7,spaceship,,,28/09/2026 00:47
+fe385c67-2367-4a03-95e7-4ababb03edcb,oper.observer,available,9.49,9.49,medium,low,4,spaceship,,,28/09/2026 21:34
+3cf2bf6f-0e80-47b7-ad02-5066de063eba,grayson.observer,premium,20.9,20.9,medium,low,7,spaceship,,,28/09/2026 00:47
 65624585-4ae9-4b19-b946-a1897b5e2383,hereto.observer,available,10.99,10.99,medium,low,6,namesilo,,,15/09/2026 00:34
 8057875c-6eef-4ad8-bded-1484853bb9d8,chaff.observer,available,10.99,10.99,medium,low,5,namesilo,,,22/08/2026 13:50
 97475543-48d0-4b83-a8d1-2802282fb142,findings.observer,available,9.49,9.49,high,low,8,spaceship,,,28/09/2026 19:12
 adb78cef-8706-4140-9de4-b55b881121d9,dawn.observer,premium,26,26,high,low,4,namecheap,,,28/09/2026 01:54
-1b8aac05-3cab-4fca-a164-7002ed2b0469,osceola.observer,premium,11.8,11.8,high,low,7,namesilo,,,29/09/2026 22:43
+1b8aac05-3cab-4fca-a164-7002ed2b0469,osceola.observer,premium,11.8,11.8,medium,low,7,namesilo,,,29/09/2026 22:43
 48e762c3-aff8-48af-90a2-a106bcad1363,antigua.observer,premium,854,854,high,low,7,namesilo,,,19/09/2026 14:32
 c4401e46-cc3b-42b5-8d32-49dd80db669e,competitive.observer,available,9.78,9.78,high,low,11,porkbun,,,28/09/2026 07:17
 3523080b-ef35-4dc8-b89b-33641d019152,torso.observer,available,10.99,10.99,high,low,5,namesilo,,,29/09/2026 08:14
+d812398a-5e8a-437d-b8e6-c8ec1e36a55c,ponies.observer,available,10.99,10.99,high,low,6,namesilo,,,30/09/2026 15:39
 4cb4be59-9a87-4f7d-acf1-342f8c5c42b7,hairy.observer,available,11.98,16.98,high,low,5,namecheap,,,24/09/2026 23:10
 cd24329e-24a8-4031-8aa1-92e7e216caa4,moslem.observer,available,10.99,10.99,high,low,6,namesilo,,,22/08/2026 10:47
+86d8b0f3-9d84-4693-bf59-2b201e7e36c9,wartime.observer,available,10.99,10.99,medium,low,7,namesilo,,,30/09/2026 11:19
 b52f22bc-7968-4d1f-b6f4-ac03dea40ab1,longlasting.observer,available,10.99,10.99,high,low,12,namesilo,,,
-40d3ae49-3b75-4096-949b-40aea6cbeaa6,stan.observer,premium,11.8,11.8,high,low,4,namesilo,,,
+40d3ae49-3b75-4096-949b-40aea6cbeaa6,stan.observer,premium,11.8,11.8,high,low,4,namesilo,,,01/10/2026 01:11
 6dd3fc72-d083-41e4-9cc4-acf3af7b98d3,bounce.observer,premium,29.5,29.5,high,low,6,namesilo,,,23/09/2026 01:22
 a38f49a3-ebad-44f3-b89f-e47c9f86b899,blackmailing.observer,available,10.99,10.99,medium,low,12,namesilo,,,
 1ca1d800-2479-4583-87d8-ca33a5e5d393,prettiest.observer,available,10.99,10.99,medium,low,9,namesilo,,,18/09/2026 03:32
-ffce4750-f897-4d9a-938d-6bbe9bddbfcc,harmonical.observer,available,10.99,10.99,high,low,10,namesilo,,,12/08/2026 22:48
+ffce4750-f897-4d9a-938d-6bbe9bddbfcc,harmonical.observer,available,10.99,10.99,medium,low,10,namesilo,,,12/08/2026 22:48
+3b0f796c-8576-45bc-abba-c87767d69328,murcia.observer,premium,27.82,27.82,medium,low,6,porkbun,,,30/09/2026 21:06
 c7b64d45-b0fb-4b87-a256-d8ce4254d380,caruso.observer,premium,11.8,11.8,medium,low,6,namesilo,,,30/09/2026 01:00
+5fa5fb50-ccfc-455a-960e-b70645d2edf4,moths.observer,available,9.85,9.85,medium,low,5,dynadot,,,30/09/2026 06:56
 3ec7b7d8-9aae-44d1-9031-5186ed1a3f03,mortgages.observer,premium,1107,1107,medium,low,9,namesilo,,,20/09/2026 00:45
 6c2dd840-23a0-4db8-820d-cc02a6c1c6ef,snaps.observer,available,10.99,10.99,medium,low,5,namesilo,,,18/09/2026 11:55
+5ac5ca21-23d5-4bd8-871e-768c38847c62,temperance.observer,available,9.49,9.49,high,low,10,spaceship,,,30/09/2026 18:54
 9ff0e9d7-9e78-44f0-b86e-4930631705e5,navigation.observer,premium,11.8,11.8,high,low,10,namesilo,,,10/09/2026 00:36
 38ced423-f0b2-47c3-94e7-6c1fdea854ae,sudanese.observer,available,10.99,10.99,high,low,8,namesilo,,,11/09/2026 01:05
 6ce76809-94dd-43f7-8252-389ef801c921,alary.observer,premium,11.8,11.8,medium,low,5,namesilo,,,
@@ -61,7 +67,10 @@ b0aa269c-0e21-422b-9894-63f471314a40,refugee.observer,available,9.2,9.2,high,low
 d88db43c-85fc-4c98-9cf2-46e019a9ecb5,caroline.observer,premium,13,13,high,low,8,namecheap,,,11/08/2026 19:29
 386ea91e-b37b-4a6b-85c2-4ffb6124fa86,inflexibly.observer,available,10.99,10.99,medium,low,10,namesilo,,,15/09/2026 08:16
 63ddd717-5951-484c-bda6-26d7b2156a7d,quizzical.observer,available,11.98,16.98,medium,low,9,namecheap,,,09/09/2026 08:39
+20141317-196e-49b9-875b-526f2f599f06,hammering.observer,available,9.85,9.85,high,low,9,dynadot,,,01/10/2026 02:23
+8de7c0d5-a310-426d-b275-fffb54e40736,collaborator.observer,available,9.49,9.49,high,low,12,spaceship,,,30/09/2026 12:19
 cb020fda-fca5-4d82-bae3-cb256d966334,looking.observer,premium,29.5,29.5,high,low,7,namesilo,,,25/09/2026 14:19
+199fff62-df39-44e4-bca0-0d3707568aff,baskets.observer,available,9.49,9.49,medium,low,7,spaceship,,,30/09/2026 07:05
 d2249dcf-2097-47eb-a080-33713e2aeb2b,aphesis.observer,available,11.98,16.98,medium,low,7,namecheap,,,19/09/2026 16:55
 8217d50f-45a9-4ed6-92a4-2af82b839cab,por.observer,premium,10.55,10.55,medium,low,3,spaceship,,,28/09/2026 21:27
 0dcf01cd-0065-4489-8577-024e8313cdf2,auricular.observer,available,11.98,16.98,medium,low,9,namecheap,,,07/08/2026 17:46
@@ -81,15 +90,16 @@ e8f9fb31-bce8-44e0-8385-059834b0e938,baroness.observer,available,10.99,10.99,hig
 b045dda4-6a13-4072-82f3-884158038760,frigid.observer,available,10.99,10.99,medium,low,6,namesilo,,,18/08/2026 15:46
 aa8ee1e8-f001-4842-ab66-4b72d5e1e531,toothy.observer,available,10.99,10.99,medium,low,6,namesilo,,,11/09/2026 17:20
 9c015023-5d35-4dc9-bcbb-2f817a88cb0f,napped.observer,available,10.99,10.99,medium,low,6,namesilo,,,18/08/2026 07:44
-9bf143e2-5463-4d17-8896-dfa88b9a9b80,tiled.observer,available,10.99,10.99,high,low,5,namesilo,,,11/09/2026 15:55
+9bf143e2-5463-4d17-8896-dfa88b9a9b80,tiled.observer,available,10.99,10.99,medium,low,5,namesilo,,,11/09/2026 15:55
 d26208e3-b400-4696-b875-007cfc01c49e,tolerant.observer,available,11.98,16.98,high,low,8,namecheap,,,22/08/2026 19:55
 b213bb4e-ef6a-4ce5-9eec-994fbcb0144f,score.observer,premium,29.5,29.5,high,low,5,namesilo,,,27/09/2026 18:29
 e684119b-9c7a-4ea4-8dc1-8edc475a8e7a,stanton.observer,premium,23.6,23.6,high,low,7,namesilo,,,25/09/2026 05:30
 cc0d9bd3-39b9-4c01-8196-5aec4693bffe,duet.observer,premium,13,13,high,low,4,namecheap,,,29/09/2026 18:31
 7a2d348f-1689-48fd-b435-464fdbb1bd74,ear.observer,premium,13,13,high,low,3,namecheap,,,29/09/2026 17:25
 f359fc0a-46bf-42d1-a3cd-40f284be1700,descriptions.observer,available,10.99,10.99,medium,low,12,namesilo,,,21/09/2026 07:06
+c75b3705-78ef-418c-80f6-1dfba6737bc5,motorcycles.observer,premium,854,854,medium,low,11,namesilo,,,30/09/2026 06:06
 b466b815-ac45-4b5a-848a-31dd102fc7d5,candlenut.observer,available,10.99,10.99,medium,low,9,namesilo,,,18/09/2026 05:37
-707ba6c0-f89b-4dc1-9721-ea1ec382f456,modem.observer,available,15.99,,high,low,5,name.com,,,
+707ba6c0-f89b-4dc1-9721-ea1ec382f456,modem.observer,available,9.2,9.2,high,low,5,cloudflare,,,30/09/2026 04:48
 89475c68-fed4-4afd-8f84-07d22d36a1ab,astylar.observer,available,10.99,10.99,medium,low,7,namesilo,,,07/08/2026 10:15
 b2612c56-8363-40ea-b233-03fa2ba1a3e8,roses.observer,premium,13,13,high,low,5,namecheap,,,17/09/2026 21:17
 415526ab-62ba-4d83-bf5f-10e54e8c8926,landmark.observer,premium,880,880,high,low,8,dynadot,,,29/09/2026 13:16
@@ -111,6 +121,8 @@ e52a0464-0da5-434b-abe3-1886a6745c23,sharps.observer,premium,11.8,11.8,medium,lo
 10c178c3-b3b8-4e64-8126-d1a51369ac9f,passable.observer,available,10.99,10.99,medium,low,8,namesilo,,,24/09/2026 16:16
 0b9f3bf2-9366-4fad-b66c-17d43ca589bc,prentice.observer,premium,11.8,11.8,medium,low,8,namesilo,,,19/09/2026 22:19
 ac747d6c-821b-4ef9-a68a-f4227a0d05fd,indorse.observer,available,10.99,10.99,medium,low,7,namesilo,,,08/08/2026 05:17
+f9240aa4-2eea-4a0f-a172-6b3108958c52,ebola.observer,available,9.49,9.49,medium,low,5,spaceship,,,30/09/2026 17:06
+d6e6d1aa-0b19-4f12-aee8-d96c05041458,atrocities.observer,available,11.98,16.98,low,low,10,namecheap,,,30/09/2026 16:10
 6436751e-27ac-4a2b-8a6b-5921867854ce,pulseless.observer,available,10.99,10.99,high,medium,9,namesilo,,,09/09/2026 05:58
 1aeba17c-ee78-4115-af01-b62eeb0fbd18,redundant.observer,available,10.99,10.99,medium,low,9,namesilo,,,17/08/2026 16:08
 0c77b384-37b4-48eb-ba23-d32804f5e668,mole.observer,premium,13,13,high,low,4,namecheap,,,27/09/2026 11:53
@@ -123,7 +135,7 @@ a9c27958-445f-4225-8aa5-9734858a6885,youre.observer,available,10.99,10.99,medium
 8b6fe3f1-b1f7-489d-b3e9-b43df94c911a,viewer.observer,premium,20.9,20.9,high,low,6,spaceship,,,30/09/2026 03:13
 0d8a4785-07ff-4328-9739-ee17113e58b5,possible.observer,available,10.99,10.99,high,low,8,namesilo,,,27/09/2026 04:44
 773f8cf7-c850-4123-ab89-b8189498b26e,riyadh.observer,premium,1092.18,1092.18,high,low,6,porkbun,,,29/09/2026 06:50
-0dedefe1-9b3c-4a15-a1f6-fc0588706a89,antonym.observer,available,10.99,10.99,high,low,7,namesilo,,,04/09/2026 16:48
+0dedefe1-9b3c-4a15-a1f6-fc0588706a89,antonym.observer,available,10.99,10.99,medium,low,7,namesilo,,,04/09/2026 16:48
 6658acd1-04f9-4f38-8b63-0fbbbd40f18a,advertised.observer,available,10.99,10.99,high,low,10,namesilo,,,
 ff78f5ca-0926-42c1-b569-f0eff0611906,steadily.observer,available,10.99,10.99,medium,low,8,namesilo,,,10/09/2026 19:32
 975cd85f-1fa0-4de9-8ef8-ddb09c40d70c,entirety.observer,available,9.49,9.49,high,low,8,spaceship,,,29/09/2026 18:15
@@ -143,7 +155,8 @@ c7218c57-f473-4004-9574-66b40aba505b,akee.observer,available,15.99,15.99,medium,
 041c1945-ea90-46c0-837e-b9d277b771d3,sixty.observer,premium,11.8,11.8,high,low,5,namesilo,,,
 7f1de7c8-09ee-434d-ac94-4b4a4e5dfced,gingerbread.observer,available,10.99,10.99,high,low,11,namesilo,,,27/09/2026 06:51
 4885726c-e9e6-4db4-831c-b565dd906339,winthrop.observer,premium,10.55,10.55,high,low,8,spaceship,,,27/09/2026 19:50
-b7b31f4e-2911-4b2d-b714-a2f0fc20bf51,potts.observer,premium,11,11,high,low,5,dynadot,,,28/09/2026 04:13
+5e5bd356-f9ba-4835-861b-503fce156552,wildfires.observer,available,9.85,9.85,medium,low,9,dynadot,,,30/09/2026 07:46
+b7b31f4e-2911-4b2d-b714-a2f0fc20bf51,potts.observer,premium,11,11,medium,low,5,dynadot,,,28/09/2026 04:13
 30b6d6d9-671c-4421-9e20-93a2595356f1,smallest.observer,available,9.2,9.2,medium,low,8,cloudflare,,,28/09/2026 17:15
 21c8a03e-87bd-478f-a09a-1a51faa85e28,ruddy.observer,premium,11.8,11.8,high,low,5,namesilo,,,10/08/2026 14:59
 6317aebb-4a93-4725-bbe3-7f67a6f26e52,achieved.observer,available,9.2,9.2,high,low,8,cloudflare,,,28/09/2026 12:45
@@ -171,7 +184,7 @@ d0bd6269-8dbe-45b3-b052-8c00a1118ea2,britton.observer,premium,10.55,10.55,medium
 e98ddf44-28e6-4961-847c-e92245dd658a,cosily.observer,available,10.99,10.99,medium,low,6,namesilo,,,14/09/2026 08:50
 70133d77-56db-4910-bb82-7d978b5897b0,blighted.observer,available,10.99,10.99,medium,low,8,namesilo,,,10/08/2026 14:17
 20997f96-6859-4954-96a5-20d7eacb4eed,vertical.observer,premium,23.6,23.6,high,low,8,namesilo,,,24/09/2026 14:52
-b5a29be1-7c6a-448d-aa59-115ef8ad3e83,awestruck.observer,available,10.99,10.99,high,low,9,namesilo,,,08/08/2026 01:00
+b5a29be1-7c6a-448d-aa59-115ef8ad3e83,awestruck.observer,available,10.99,10.99,medium,low,9,namesilo,,,08/08/2026 01:00
 71c2c7c7-b2e9-4357-ae3e-635cf908480d,tar.observer,premium,828.2,828.2,medium,low,3,spaceship,,,29/09/2026 01:06
 f166e4a1-58ab-476b-bcb5-546e43ba2bd3,orthoptic.observer,available,11.98,16.98,medium,low,9,namecheap,,,04/09/2026 18:06
 f3f3f4b2-9ecf-444d-bb5b-9e96f61d5bd2,curable.observer,available,10.99,10.99,high,low,7,namesilo,,,13/08/2026 10:59
@@ -182,7 +195,7 @@ f3f3f4b2-9ecf-444d-bb5b-9e96f61d5bd2,curable.observer,available,10.99,10.99,high
 0ca035e7-7e50-4323-8a41-b9e468caee92,dependence.observer,available,10.99,10.99,medium,low,10,namesilo,,,17/09/2026 06:54
 98c66fa1-7814-4047-a5cc-57fd45de61f9,prohibited.observer,available,10.99,10.99,medium,low,10,namesilo,,,08/08/2026 13:48
 b32cf66d-6f79-4278-b073-4c3f5fb52be8,defiled.observer,available,10.99,10.99,medium,low,7,namesilo,,,13/08/2026 23:24
-40ade5ee-5741-42a4-9866-7fde2b92817c,extempore.observer,available,11.98,16.98,high,low,9,namecheap,,,
+40ade5ee-5741-42a4-9866-7fde2b92817c,extempore.observer,available,11.98,16.98,medium,low,9,namecheap,,,
 45f0fe98-a132-4477-9b43-c4dcbf88384a,remind.observer,available,11.98,16.98,high,low,6,namecheap,,,24/09/2026 20:14
 f0747076-a355-48ea-a8a4-08746ddce59a,milan.observer,premium,29.5,29.5,high,low,5,namesilo,,,29/09/2026 07:37
 423a59b3-fea1-4da2-8db7-8c796397fd3a,squall.observer,available,9.49,9.49,medium,low,6,spaceship,,,29/09/2026 12:24
@@ -194,14 +207,15 @@ abe8b4ce-a618-42e0-8c20-3ec7a4db3ebe,flipped.observer,premium,11.8,11.8,medium,l
 48245eea-fe35-448c-b524-991dd4c931eb,listen.observer,premium,11.8,11.8,high,low,6,namesilo,,,29/09/2026 22:36
 a4f6ddfc-85f6-4cc1-b5cf-45c9a5c6da48,palmerston.observer,premium,10.55,10.55,medium,low,10,spaceship,,,28/09/2026 16:40
 d8b618f9-68f3-42a7-834b-9a83da98e2e2,appetizing.observer,available,10.99,10.99,high,low,10,namesilo,,,06/08/2026 06:45
-ccc0f330-79cd-4cd7-bcb0-3c62d7cad709,succeeded.observer,available,10.99,10.99,high,low,9,namesilo,,,28/09/2026 17:37
+ccc0f330-79cd-4cd7-bcb0-3c62d7cad709,succeeded.observer,available,10.99,10.99,medium,low,9,namesilo,,,28/09/2026 17:37
 e268e639-b300-43ff-95dc-96770db420b4,xeric.observer,available,10.99,10.99,medium,low,5,namesilo,,,13/09/2026 14:07
+603e1975-67fc-452c-bde1-ecfa31c781db,cavan.observer,premium,11.44,11.44,medium,low,5,porkbun,,,30/09/2026 12:17
 f9937c42-ea69-49dc-aff5-3ae09b84c3c5,dreary.observer,available,10.99,10.99,medium,low,6,namesilo,,,14/08/2026 11:47
 91cd062c-faa4-4a0d-89c3-24d80bc7e4e6,nellie.observer,premium,10.55,10.55,high,low,6,spaceship,,,27/09/2026 18:29
 3f06e551-e497-476c-a452-37c1eb67e319,meshed.observer,available,11.98,16.98,medium,low,6,namecheap,,,24/08/2026 20:57
 f98fe5c3-5de3-4b6b-a8c3-2361bb1dcda4,gipsy.observer,premium,11.8,11.8,high,low,5,namesilo,,,10/08/2026 17:23
 2d589bb6-82ac-4d19-8ffa-9cbc4bb2ec43,chives.observer,available,11.98,16.98,high,low,6,namecheap,,,18/09/2026 11:27
-a8cea48e-7c65-4584-b8da-4cc28234de97,quilting.observer,available,10.99,10.99,high,low,8,namesilo,,,
+a8cea48e-7c65-4584-b8da-4cc28234de97,quilting.observer,available,9.2,9.2,high,low,8,cloudflare,,,30/09/2026 09:05
 c0d33b45-b8db-403b-b950-22b97fd0a25f,plain.observer,premium,11.8,11.8,high,low,5,namesilo,,,22/09/2026 07:19
 3887bdb0-4094-41f4-9026-1d5e143716f8,nhs.observer,premium,,,high,low,3,,,,28/09/2026 07:40
 eaafb721-c07d-4c9a-a286-bc147d269fc6,fagot.observer,available,10.99,10.99,medium,low,5,namesilo,,,09/09/2026 07:59
@@ -213,36 +227,42 @@ e474a563-f118-4a64-9447-af6c91fb64e4,javascript.observer,available,9.2,9.2,high,
 52093179-0df9-404a-a257-efb08b88cf68,clunky.observer,available,10.99,10.99,medium,low,6,namesilo,,,12/08/2026 13:08
 7da48f9d-ace9-45cb-a4ed-be1feaf24f19,intersex.observer,available,10.99,10.99,high,low,8,namesilo,,,27/09/2026 06:51
 fe250535-c992-4e0d-bb5d-c295a95318ad,wedded.observer,available,10.99,10.99,high,low,6,namesilo,,,13/09/2026 09:30
-a52a5d5c-7cba-461e-91ed-deb9ccf2daf1,clamp.observer,available,11.98,16.98,high,low,5,namecheap,,,24/09/2026 15:19
+a52a5d5c-7cba-461e-91ed-deb9ccf2daf1,clamp.observer,available,11.98,16.98,medium,low,5,namecheap,,,24/09/2026 15:19
 369a9573-0868-4066-b4a1-ab7e8cb42f4f,contrasty.observer,available,10.99,10.99,medium,low,9,namesilo,,,12/08/2026 23:32
 a95006d2-4f64-460d-81a3-a81a99b5b5d4,arresting.observer,available,10.99,10.99,high,low,9,namesilo,,,06/08/2026 21:47
 7fc3b9db-8e13-406a-b8cf-4290ca76f43d,rebirth.observer,premium,,,high,low,7,,,,30/09/2026 02:16
+044c57eb-76d8-4dc7-9ad9-2dfdd26ece74,minerva.observer,premium,11,11,high,medium,7,dynadot,,,30/09/2026 18:03
 8b7048d5-2b93-4a76-a1f7-026922145e6c,bathtub.observer,premium,11.8,11.8,high,low,7,namesilo,,,22/09/2026 13:40
 68fd8814-fca7-40c2-ad05-90eea8b7bcab,accordant.observer,available,10.99,10.99,high,low,9,namesilo,,,
+48165ea2-0d08-4891-9d79-cc5738284aff,jellyfish.observer,available,10.99,10.99,high,low,9,namesilo,,,01/10/2026 02:43
 327dfb6a-ea10-4a9e-b60f-ab166f3ef7dc,curiously.observer,available,9.2,9.2,medium,low,9,cloudflare,,,28/09/2026 14:28
-23ac4964-ee5f-494e-8b42-97100598a2bd,lymphatic.observer,available,10.99,10.99,high,low,9,namesilo,,,24/08/2026 12:33
+23ac4964-ee5f-494e-8b42-97100598a2bd,lymphatic.observer,available,10.99,10.99,medium,low,9,namesilo,,,24/08/2026 12:33
 f7cfd31a-e4f5-45d9-a1aa-27378b309252,bifurcate.observer,available,11.98,16.98,high,low,9,namecheap,,,09/08/2026 20:08
+8e7daaca-eda4-4b57-8964-9709cd39102b,sponsorship.observer,available,10.99,10.99,high,low,11,namesilo,,,30/09/2026 23:15
 a1b8799d-dcd0-42a9-b455-1ae2bf4a548e,wwii.observer,available,9.2,9.2,medium,low,4,cloudflare,,,28/09/2026 07:36
 5f534e9e-01c5-40e5-9518-c73d192a87ba,blessings.observer,premium,13,13,medium,low,9,namecheap,,,28/09/2026 17:50
 0be27d13-b1ff-4b67-b9b6-3c04af2b9b53,breeds.observer,available,10.99,10.99,medium,low,6,namesilo,,,20/09/2026 01:09
 f1f03b29-5f4c-4741-9839-43e65320321b,guitar.observer,premium,11.8,11.8,high,low,6,namesilo,,,29/09/2026 21:44
 bd7dc40f-8d33-447e-915b-0c727807e951,phillips.observer,premium,32.5,32.5,high,low,8,namecheap,,,25/09/2026 18:30
-d58610a2-0173-4806-a077-085dbe81d408,dishonesty.observer,available,9.49,9.49,high,low,10,spaceship,,,29/09/2026 15:54
+d58610a2-0173-4806-a077-085dbe81d408,dishonesty.observer,available,9.49,9.49,medium,low,10,spaceship,,,29/09/2026 15:54
 2666505a-3444-4d4c-a01e-7bfd82c82566,tending.observer,available,10.99,10.99,high,low,7,namesilo,,,11/09/2026 11:15
 818ded27-b99e-4321-8655-f3182391d666,grapey.observer,available,10.99,10.99,medium,low,6,namesilo,,,20/08/2026 18:06
+1bed4fb1-9640-4957-a4a9-84e4297a184f,noor.observer,premium,10.55,10.55,high,low,4,spaceship,,,30/09/2026 13:36
 63009568-ba11-418f-979a-6754f9cf65ef,untapped.observer,available,11.98,16.98,medium,low,8,namecheap,,,12/09/2026 21:02
 8c31e005-0453-4a95-b714-9ab3cf662e01,flavourful.observer,available,10.99,10.99,medium,low,10,namesilo,,,18/08/2026 07:06
 80b7c124-75a7-44b7-9e88-c0ff357db245,investigator.observer,available,9.49,9.49,high,low,12,spaceship,,,28/09/2026 03:35
 6fb7e500-d3ae-4f1b-acea-45c426bdfe57,alir.observer,available,10.99,10.99,medium,low,4,namesilo,,,17/08/2026 22:11
 c8a49bd8-2da2-40d0-b8cb-7f9409a16b6d,xmas.observer,available,9.2,9.2,high,low,4,cloudflare,,,29/09/2026 09:09
 699258ba-c485-450e-8ccf-20b75bd8fc4b,ards.observer,available,10.99,10.99,medium,low,4,namesilo,,,17/09/2026 10:14
-e01cd3ec-94b2-4854-945f-4f5b8fc7ee90,calculable.observer,available,10.99,10.99,high,low,10,namesilo,,,11/08/2026 13:54
-4a704c3a-40be-42d8-a9ee-c7ad2b8f7b11,futurity.observer,available,11.98,16.98,high,low,8,namecheap,,,18/08/2026 19:11
-bb7079d2-c38f-4547-8115-5e156b3df6ff,dowry.observer,available,11.98,16.98,high,low,5,namecheap,,,24/09/2026 23:36
+32296420-480f-4cde-b44d-15438b2f52fc,impossibility.observer,available,10.99,10.99,medium,low,13,namesilo,,,30/09/2026 23:16
+e01cd3ec-94b2-4854-945f-4f5b8fc7ee90,calculable.observer,available,10.99,10.99,medium,low,10,namesilo,,,11/08/2026 13:54
+4a704c3a-40be-42d8-a9ee-c7ad2b8f7b11,futurity.observer,available,11.98,16.98,medium,low,8,namecheap,,,18/08/2026 19:11
+bb7079d2-c38f-4547-8115-5e156b3df6ff,dowry.observer,available,11.98,16.98,medium,low,5,namecheap,,,24/09/2026 23:36
 f1b0a101-585f-4067-b84c-06eb748fe2b6,astrogator.observer,available,10.99,10.99,medium,low,10,namesilo,,,20/09/2026 17:41
+19eb9fd6-ae1f-4780-9944-09cec2b7eab0,golfer.observer,premium,10.55,10.55,high,low,6,spaceship,,,30/09/2026 17:30
 8d53d49a-831b-440c-871e-06b290b725ee,amd.observer,premium,11.8,11.8,high,low,3,namesilo,,,17/09/2026 16:44
 757f7d4b-d65b-47be-ae68-d8a13c4f7bb9,perceiver.observer,available,10.99,10.99,high,low,9,namesilo,,,08/09/2026 16:18
-48f611a6-b170-4b93-b9d9-6780707eaeb9,tomb.observer,available,9.49,9.49,high,low,4,spaceship,,,27/09/2026 16:05
+48f611a6-b170-4b93-b9d9-6780707eaeb9,tomb.observer,available,9.49,9.49,medium,low,4,spaceship,,,27/09/2026 16:05
 5b56e112-d5f5-4c68-b940-edcf77e69445,trumpcare.observer,available,10.99,10.99,medium,low,10,namesilo,,,
 76c5603a-cbfc-477a-9e31-993816cbc4d1,beds.observer,premium,11,11,high,low,4,dynadot,,,27/09/2026 18:14
 6e021446-017a-4dd9-a76e-a533e7190233,sensed.observer,available,10.99,10.99,high,low,6,namesilo,,,08/09/2026 16:07
@@ -266,37 +286,39 @@ dc0ba077-ce14-4628-b31f-bf1f97e130eb,blacktail.observer,available,15.99,15.99,me
 83d07a7c-f8a8-403d-a233-032a283bf2b2,occupational.observer,premium,10.55,10.55,medium,low,12,spaceship,,,29/09/2026 03:01
 c27e423a-5194-4c28-95bb-57480e2f47d0,mock.observer,premium,11.8,11.8,high,low,4,namesilo,,,25/08/2026 02:24
 dafff5c5-2de7-459f-92a6-90ed5b8147d5,jill.observer,premium,11.8,11.8,high,low,4,namesilo,,,25/09/2026 11:32
-bd2b73d9-817e-455c-81a2-9c98049a6142,evanescent.observer,available,10.99,10.99,high,low,10,namesilo,,,17/08/2026 14:37
-796c68bc-ff62-4873-a5e9-c65c30e5515f,selenium.observer,available,10.99,10.99,high,low,8,namesilo,,,20/09/2026 22:53
+bd2b73d9-817e-455c-81a2-9c98049a6142,evanescent.observer,available,10.99,10.99,medium,low,10,namesilo,,,17/08/2026 14:37
+796c68bc-ff62-4873-a5e9-c65c30e5515f,selenium.observer,available,10.99,10.99,medium,low,8,namesilo,,,20/09/2026 22:53
 8cf9c149-5930-4c4b-8cb7-f5da4ad4c9d7,pier.observer,premium,854,854,high,low,4,namesilo,,,28/09/2026 06:35
 fe05d494-7ac0-43a5-b8fb-bb6aab1f4fdc,vaughn.observer,premium,11.8,11.8,high,low,6,namesilo,,,27/09/2026 11:16
 9541f3ef-96ce-4254-bd04-af0be276c671,precative.observer,available,10.99,10.99,high,medium,9,namesilo,,,09/09/2026 01:12
 ad060d4a-2823-43f8-a431-f251c5338aef,disloyal.observer,available,10.99,10.99,medium,low,8,namesilo,,,14/08/2026 11:36
+bea03607-3a1c-4ba6-8c05-87ff3c0d53d0,borough.observer,premium,10.55,10.55,high,low,7,spaceship,,,01/10/2026 01:09
 e901d0ed-44dc-4831-b9ab-48a744e902df,allophonic.observer,available,10.99,10.99,medium,low,10,namesilo,,,
 930a6ef0-b549-48be-9e66-044ab57a82d0,metropolis.observer,premium,23.6,23.6,high,low,10,namesilo,,,30/09/2026 01:03
 2ce1d108-2fc1-46ed-a32a-79ed05ebf7fc,delgado.observer,premium,10.55,10.55,medium,low,7,spaceship,,,28/09/2026 17:40
 e1646ac9-edf4-4a23-b3b4-56e3515e10f0,monte.observer,premium,,,high,low,5,,,,28/09/2026 05:47
 e3ae4990-52cf-4eac-ad1f-e47a07f0543f,carbonated.observer,available,10.99,10.99,medium,low,10,namesilo,,,11/08/2026 18:39
 6e209b01-5517-4094-af19-108ebeb53bc7,changed.observer,available,10.99,10.99,high,low,7,namesilo,,,12/08/2026 01:53
-89735301-2c9a-40d1-ab09-73c37c02121a,churning.observer,available,10.99,10.99,high,low,8,namesilo,,,12/08/2026 07:51
+89735301-2c9a-40d1-ab09-73c37c02121a,churning.observer,available,10.99,10.99,medium,low,8,namesilo,,,12/08/2026 07:51
+6f33aa76-a4ce-47bb-a5ad-8d85ad7e6394,neely.observer,premium,10.55,10.55,medium,low,5,spaceship,,,30/09/2026 13:55
 ed19f608-3058-4a9d-8458-10f9a13fae03,lettres.observer,available,9.2,9.2,medium,low,7,cloudflare,,,29/09/2026 05:30
 dcde2761-4848-4c17-aa01-ff4a71373043,stimulate.observer,available,10.99,10.99,high,low,9,namesilo,,,29/09/2026 02:44
-9b46b189-eeff-4d6a-be22-599d4125488f,delaney.observer,premium,,,high,low,7,,,,28/09/2026 04:06
+9b46b189-eeff-4d6a-be22-599d4125488f,delaney.observer,premium,,,medium,low,7,,,,28/09/2026 04:06
 117f9755-3122-44cb-8567-b35ede4c6c00,drizzling.observer,available,10.99,10.99,medium,low,9,namesilo,,,14/08/2026 19:38
 7a9b1f75-7f77-4f7e-92b5-4aab7d8efb8d,andean.observer,available,10.99,10.99,high,low,6,namesilo,,,
 9ed32157-f497-4c15-8ab6-e940377dbf6e,aviary.observer,available,10.99,10.99,high,low,6,namesilo,,,21/09/2026 09:22
 6212af8e-2c51-4158-9e87-aee45c4c82b5,crisply.observer,available,10.99,10.99,medium,low,7,namesilo,,,14/09/2026 09:37
 e087863b-c859-4fb5-9d5e-ed868caf54d2,emotional.observer,available,11.98,16.98,high,low,9,namecheap,,,27/09/2026 06:51
-dac414f5-6847-46e0-ba32-ec869444d9e0,rectangle.observer,available,10.99,10.99,high,low,9,namesilo,,,
+dac414f5-6847-46e0-ba32-ec869444d9e0,rectangle.observer,available,9.49,9.49,high,low,9,spaceship,,,30/09/2026 09:22
 6ec93e99-4924-44a3-b42a-a7792cb16b3f,precarious.observer,available,10.99,10.99,medium,low,10,namesilo,,,08/09/2026 01:44
 032a1cf5-6066-4324-9363-e4fc7f54bee2,movies.observer,premium,29.5,29.5,high,low,6,namesilo,,,
 063ab742-2e1b-4151-a3dc-6b5c76a9883c,student.observer,premium,1000,,high,low,7,name.com,,,29/09/2026 03:37
-99a2b0d0-6bda-4097-9a68-ccc29bc43fdb,arguing.observer,available,10.99,10.99,high,low,7,namesilo,,,20/09/2026 04:50
+99a2b0d0-6bda-4097-9a68-ccc29bc43fdb,arguing.observer,available,10.99,10.99,medium,low,7,namesilo,,,20/09/2026 04:50
 41a1bf06-b45d-4d80-90eb-32d7cb30ec12,fusiform.observer,available,10.99,10.99,medium,low,8,namesilo,,,12/08/2026 08:02
 5ec40c23-e0f1-45eb-b75c-44c7dba8cf1c,adults.observer,available,10.99,10.99,medium,low,6,namesilo,,,27/09/2026 09:52
 323328f6-693e-41b4-a7d7-32b8702947de,midwestern.observer,premium,11.8,11.8,high,low,10,namesilo,,,24/08/2026 22:41
 5c330634-5988-4dae-81fc-5be14876b745,cast.observer,premium,23.6,23.6,high,low,4,namesilo,,,27/09/2026 20:35
-7f25a725-ef3f-4a2b-8d26-452d1726235e,tow.observer,premium,11.8,11.8,high,low,3,namesilo,,,
+7f25a725-ef3f-4a2b-8d26-452d1726235e,tow.observer,premium,11.8,11.8,high,low,3,namesilo,,,30/09/2026 13:23
 d38adff7-9326-4dba-b8e1-56ef9153edc2,pipes.observer,available,9.49,9.49,high,low,5,spaceship,,,27/09/2026 22:20
 cabe11e2-09c6-4aa8-9309-9edd14d0d923,ethan.observer,premium,11.8,11.8,high,low,5,namesilo,,,25/09/2026 13:30
 ba079c2c-13dd-47a9-b11e-4ad8dc8d3848,begging.observer,available,10.99,10.99,high,low,7,namesilo,,,23/09/2026 02:16
@@ -306,19 +328,21 @@ fb9e1e0f-412b-4bb9-81aa-b6205869e848,centuries.observer,available,10.99,10.99,me
 3b7c3014-6d08-4a35-8e2a-d2a834323b6c,antibiotics.observer,available,10.99,10.99,low,low,11,namesilo,,,28/09/2026 13:28
 9ea872ba-4c59-44b9-8aae-28c1e731b45a,whispers.observer,available,10.99,10.99,medium,low,8,namesilo,,,29/09/2026 17:25
 6281f902-3991-41f8-b1ab-91bdcf71a475,revolt.observer,available,9.49,9.49,high,low,6,spaceship,,,29/09/2026 15:48
+1a154c37-bac5-4788-a9fd-ccc9f4bb665e,zoology.observer,available,10.99,10.99,high,low,7,namesilo,,,01/10/2026 02:02
 737670cd-ff9b-418b-a764-18a691321fe2,restricted.observer,available,10.99,10.99,high,low,10,namesilo,,,27/09/2026 13:02
 f75373e3-2b40-4d1b-a1d9-2fe5bac4b97c,hyoid.observer,available,10.99,10.99,medium,low,5,namesilo,,,21/08/2026 16:35
 42e1a407-8139-440a-981a-d77d9741fc04,keyset.observer,available,10.99,10.99,low,low,7,namesilo,,,21/09/2026 00:17
 3cdab890-01f6-40a5-80a8-c37807108f13,volumetric.observer,available,10.99,10.99,high,low,10,namesilo,,,13/09/2026 07:03
 dfb4ebfa-230e-4db7-a47c-418dc21ab709,welds.observer,available,11.98,16.98,medium,low,5,namecheap,,,20/09/2026 14:08
+479f3701-e40f-445c-b2ed-574d98136733,kensington.observer,premium,29.5,29.5,high,low,10,namesilo,,,30/09/2026 12:20
 ac22c0d4-33a5-46f9-8984-d8fd0cb6a26a,illustrated.observer,premium,23.6,23.6,high,low,11,namesilo,,,
 8435f739-7dd6-490c-b941-73348d686367,violated.observer,available,10.99,10.99,medium,low,8,namesilo,,,27/09/2026 07:04
 a013a08f-7cc5-4fff-8bfd-0911bcee900d,vir.observer,premium,11.44,11.44,medium,low,3,porkbun,,,29/09/2026 23:48
 947d3e2a-6521-4d93-bb9e-bbfeccef0b02,days.observer,premium,854,854,high,low,4,namesilo,,,29/09/2026 13:20
-6b2c00ad-9825-4a5b-bce3-7812d800efe0,ashkenazi.observer,available,10.99,10.99,high,low,9,namesilo,,,20/09/2026 13:54
+6b2c00ad-9825-4a5b-bce3-7812d800efe0,ashkenazi.observer,available,10.99,10.99,medium,low,9,namesilo,,,20/09/2026 13:54
 5ad78086-a9f2-483f-b68d-34a77aba7955,schwartz.observer,premium,23.6,23.6,high,low,8,namesilo,,,25/09/2026 15:46
 19f2dd34-065f-418c-a6fb-f31797173cf6,balcony.observer,available,11.98,16.98,high,low,7,namecheap,,,21/09/2026 21:28
-76ba09fe-d160-4905-bdcc-316a069b4b00,cream.observer,premium,11.44,11.44,high,low,5,porkbun,,,28/09/2026 04:30
+76ba09fe-d160-4905-bdcc-316a069b4b00,cream.observer,premium,11.8,11.8,high,low,5,namesilo,,,01/10/2026 02:33
 88b54e6a-2bd7-440f-9869-ed49fcd77a9f,activeness.observer,available,10.99,10.99,medium,low,10,namesilo,,,17/09/2026 05:11
 1fad05b4-8471-45ea-a105-470ca94464db,relationships.observer,available,11.98,16.98,medium,low,13,namecheap,,,17/09/2026 20:15
 608fd260-09c0-4207-b21c-bb737872f476,braw.observer,available,10.99,10.99,medium,low,4,namesilo,,,11/08/2026 02:45
@@ -344,6 +368,7 @@ d09124ea-3249-4323-94ec-6877e74a4a6c,freshmen.observer,available,9.49,9.49,high,
 ec33ddf7-9150-4175-8af7-ab790a6955ab,charles.observer,premium,29.5,29.5,high,medium,7,namesilo,,,29/09/2026 07:30
 1d5f67e4-804f-428c-b3fd-6645036331ae,herb.observer,premium,11.8,11.8,high,low,4,namesilo,,,28/09/2026 02:06
 52f8ec41-ad8f-4f7a-bd70-1e4ae7fd5b54,conduct.observer,available,10.99,10.99,high,low,7,namesilo,,,23/09/2026 03:13
+17df4f0c-05ff-4ea9-9345-3a0c950e9a9a,falklands.observer,available,10.99,10.99,medium,low,9,namesilo,,,30/09/2026 14:15
 db90d71b-3f64-45d8-90d5-cb03bbf399e0,burbly.observer,available,10.99,10.99,medium,low,6,namesilo,,,11/08/2026 10:14
 8f5ae33c-3fdc-483e-946a-a028462c5e04,calling.observer,premium,11.8,11.8,high,low,7,namesilo,,,24/09/2026 11:48
 f74b2457-ffa8-4daf-b7b5-10eba1f11ad6,malagasy.observer,available,9.2,9.2,medium,low,8,cloudflare,,,29/09/2026 22:51
@@ -354,24 +379,25 @@ fc8ea1e0-2432-4d24-b388-5412452d858c,rko.observer,premium,,,medium,low,3,,,,28/0
 05ec0f05-f376-48c2-9e50-0b2ff2659ad6,prosodic.observer,available,10.99,10.99,medium,low,8,namesilo,,,09/09/2026 03:39
 7b8b631e-2806-419e-b22f-54d58c6149d3,sessile.observer,available,10.99,10.99,medium,low,7,namesilo,,,10/09/2026 04:59
 70e2066b-0f31-40a0-abe2-19e998ba8861,nautical.observer,premium,11.8,11.8,high,low,8,namesilo,,,24/08/2026 15:58
-9172c451-e46f-4746-812e-d720d4f72e6b,dinky.observer,available,10.99,10.99,high,low,5,namesilo,,,14/08/2026 08:14
+9172c451-e46f-4746-812e-d720d4f72e6b,dinky.observer,available,10.99,10.99,medium,low,5,namesilo,,,14/08/2026 08:14
 aad9a77e-aef8-441f-9794-ddf62107b52f,derived.observer,available,10.99,10.99,medium,low,7,namesilo,,,14/08/2026 03:07
 946c1fb7-67ff-45b1-b788-bafb66241aa3,manifest.observer,premium,13,13,high,medium,8,namecheap,,,28/09/2026 07:45
-56465425-b60a-417c-83e3-7c77fd6428e2,turkish.observer,premium,1000,1000,high,low,7,name.com,,,11/09/2026 21:18
-ba986fff-b2f9-4527-b4c4-c3b5ea9a7806,sequester.observer,available,11.98,16.98,high,low,9,namecheap,,,12/08/2026 21:06
+56465425-b60a-417c-83e3-7c77fd6428e2,turkish.observer,premium,1000,1000,medium,low,7,name.com,,,11/09/2026 21:18
+ba986fff-b2f9-4527-b4c4-c3b5ea9a7806,sequester.observer,available,11.98,16.98,medium,low,9,namecheap,,,12/08/2026 21:06
 033062c7-fae8-4c78-a30c-568a2143a2f1,unquiet.observer,available,10.99,10.99,medium,low,7,namesilo,,,12/09/2026 17:40
 0c361e77-7bac-4b61-b6c2-65b3167eafde,five.observer,premium,23.6,23.6,high,low,4,namesilo,,,
 fe607732-b2e3-41fd-bb80-8609cc5feffc,auric.observer,available,10.99,10.99,medium,low,5,namesilo,,,07/08/2026 17:36
 94fe42ba-c739-4b0a-add4-0955acb2af4a,umpteen.observer,available,10.99,10.99,medium,low,7,namesilo,,,11/09/2026 23:06
 91a3f1de-d9d7-4083-aad3-b7f77d0b7b73,falcon.observer,premium,,,high,medium,6,,,,28/09/2026 19:10
+7246879c-cd95-4694-9e0d-bd3cdfa64762,wildfire.observer,premium,,,high,low,8,,,,01/10/2026 04:06
 e6c390e8-ea03-44a1-a59b-48cdb1fe4c99,clapper.observer,available,15.99,15.99,medium,low,7,name.com,,,19/09/2026 20:51
 61702f91-6152-43bc-a400-6fe0e5901c92,soaked.observer,available,10.99,10.99,medium,low,6,namesilo,,,09/08/2026 15:52
 4d631c05-78b1-4158-84b0-cdbe1ec953bb,blackface.observer,available,10.99,10.99,medium,low,9,namesilo,,,24/09/2026 02:15
 d408a24f-e4e1-4d7e-92f7-574b7bff79ce,suspended.observer,available,10.99,10.99,medium,low,9,namesilo,,,11/09/2026 04:55
-b0d578cb-c2ec-4f85-8810-db696272556f,grouped.observer,available,11.98,16.98,high,low,7,namecheap,,,20/08/2026 20:22
+b0d578cb-c2ec-4f85-8810-db696272556f,grouped.observer,available,11.98,16.98,medium,low,7,namecheap,,,20/08/2026 20:22
 ae36ab25-a9f1-4b47-8be9-63d188f1032b,bombard.observer,available,10.99,10.99,medium,low,7,namesilo,,,22/09/2026 07:59
-e00c9299-0796-491e-8c26-f3f9905d7d00,anglian.observer,available,10.99,10.99,high,low,7,namesilo,,,19/09/2026 06:48
-29898b6b-0d78-422a-a944-c21a3ed2298d,hooter.observer,available,10.99,10.99,high,low,6,namesilo,,,21/09/2026 07:22
+e00c9299-0796-491e-8c26-f3f9905d7d00,anglian.observer,available,10.99,10.99,medium,low,7,namesilo,,,19/09/2026 06:48
+29898b6b-0d78-422a-a944-c21a3ed2298d,hooter.observer,available,10.99,10.99,medium,low,6,namesilo,,,21/09/2026 07:22
 90ebd98b-0d72-4ed0-8fa8-9846c4dcd897,pending.observer,premium,13,13,high,low,7,namecheap,,,27/09/2026 03:20
 2367a75b-4afe-4c1e-9025-b8119270ee88,requesting.observer,available,10.99,10.99,medium,low,10,namesilo,,,16/09/2026 07:09
 a8dac39b-1bc4-4799-9775-547893d070a7,godly.observer,available,10.99,10.99,high,low,5,namesilo,,,14/08/2026 13:55
@@ -381,28 +407,30 @@ a8dac39b-1bc4-4799-9775-547893d070a7,godly.observer,available,10.99,10.99,high,l
 155085f7-555a-40b6-8207-981b81964f3f,iceberg.observer,available,10.99,10.99,high,low,7,namesilo,,,23/09/2026 09:15
 675a8997-286b-4394-bef0-df6d149d90ed,buttercup.observer,premium,11.8,11.8,high,low,9,namesilo,,,24/09/2026 11:18
 3eb417be-72b2-4168-9ab0-f1f2640bb0e1,slipstream.observer,available,10.99,10.99,high,low,10,namesilo,,,21/09/2026 16:20
-8a27c157-75fb-4e25-8900-b6e033705828,choosy.observer,available,10.99,10.99,high,low,6,namesilo,,,12/08/2026 06:53
+8a27c157-75fb-4e25-8900-b6e033705828,choosy.observer,available,10.99,10.99,medium,low,6,namesilo,,,12/08/2026 06:53
 b871e153-85ed-4c91-b573-ec0c1020a6be,winds.observer,available,9.49,9.49,medium,low,5,spaceship,,,27/09/2026 22:44
 d61fd2eb-2615-4716-bbf3-b44e91751962,barbarous.observer,available,10.99,10.99,medium,low,9,namesilo,,,08/08/2026 15:40
 f2e17efb-8d04-41b5-a8c4-d5debfc8107f,suicide.observer,available,15.99,15.99,high,low,7,name.com,,,25/09/2026 05:57
 0778e1c8-0f4f-4509-af17-11d5d3220004,shut.observer,available,10.99,10.99,high,low,4,namesilo,,,12/08/2026 12:10
 e614798a-f3c9-467a-96a7-1f79fd964ae5,pronto.observer,premium,29.5,29.5,high,medium,6,namesilo,,,15/09/2026 21:44
 c051999b-cce7-4f53-b1b7-a24d11c08988,humility.observer,available,10.99,10.99,high,low,8,namesilo,,,29/09/2026 07:17
+dc099298-6317-459e-bfe1-4bb30b944d25,nominees.observer,available,9.78,9.78,medium,low,8,porkbun,,,30/09/2026 16:22
 d03c8ffa-015f-4183-baeb-36be462af026,droning.observer,available,10.99,10.99,medium,low,7,namesilo,,,25/08/2026 05:28
 acfcb393-b3c0-439a-ab26-d9ad0320be62,tribade.observer,available,10.99,10.99,medium,low,7,namesilo,,,23/08/2026 00:20
 d46b3ab7-3007-4cdd-987e-e48a2a8fed04,leery.observer,available,10.99,10.99,medium,low,5,namesilo,,,22/08/2026 22:26
 0cc27802-11f6-4295-bfe7-6b160ae0c331,ron.observer,premium,32.5,32.5,high,low,3,namecheap,,,25/09/2026 00:25
+af6de075-3cf4-4df2-b45a-65b2415c93ce,amphitheater.observer,available,9.2,9.2,high,low,12,cloudflare,,,01/10/2026 02:33
 1de0beaa-afa3-4820-afdd-26d1698f9eac,honegger.observer,available,10.99,10.99,high,low,8,namesilo,,,20/09/2026 10:55
 f61584aa-d75e-44a7-a989-d6734c70fb3d,unsettled.observer,available,11.98,16.98,medium,low,9,namecheap,,,12/09/2026 19:22
 76859e92-1395-4d4d-8951-9fd817d1b358,loud.observer,premium,13,13,high,low,4,namecheap,,,24/09/2026 19:25
 fde0d023-9496-42ba-ab26-6a2ba468ff27,match.observer,premium,854,854,high,medium,5,namesilo,,,24/09/2026 14:41
-35e084a5-33c7-45a4-a7ea-772f3b44aff8,lugosi.observer,available,10.99,10.99,high,low,6,namesilo,,,23/09/2026 04:23
+35e084a5-33c7-45a4-a7ea-772f3b44aff8,lugosi.observer,available,10.99,10.99,medium,low,6,namesilo,,,23/09/2026 04:23
 a3ea48c5-d6d5-43f8-be8c-5111bba3d9c6,reflex.observer,available,11.98,16.98,high,low,6,namecheap,,,27/09/2026 11:10
 6d862d67-c461-4172-83f4-b8695a25a23d,modulated.observer,available,10.99,10.99,medium,low,9,namesilo,,,25/08/2026 03:19
 87cd3c5d-8aaa-4e0a-87ea-69926f63aa3c,icky.observer,available,10.99,10.99,medium,low,4,namesilo,,,13/08/2026 05:07
 44075c9c-5883-45c5-ae99-a2892319db4d,splash.observer,premium,13,13,high,medium,6,namecheap,,,28/09/2026 10:43
 88885110-e985-4305-a405-a1225c271410,bend.observer,premium,854,854,high,low,4,namesilo,,,23/09/2026 07:40
-4dc7bdc7-186b-4d94-a0fc-f35959dbd5ab,mohamed.observer,premium,10.55,10.55,high,low,7,spaceship,,,28/09/2026 04:07
+4dc7bdc7-186b-4d94-a0fc-f35959dbd5ab,mohamed.observer,premium,10.55,10.55,medium,low,7,spaceship,,,28/09/2026 04:07
 c07b513e-1145-4a04-8057-66beec12e918,kinky.observer,available,10.99,10.99,high,low,5,namesilo,,,17/08/2026 22:20
 ed6a82f5-5342-4f50-a3e6-a432d11f9d27,ribbon.observer,premium,11.8,11.8,high,low,6,namesilo,,,30/09/2026 02:15
 978bc7a4-92fa-4040-8c3c-baafa0983d83,ils.observer,premium,10.55,10.55,medium,low,3,spaceship,,,30/09/2026 00:10
@@ -411,19 +439,19 @@ fa0e91b8-0b1a-4571-8da6-5a62812b9d0a,dalhousie.observer,premium,11,11,medium,low
 59ba249c-c409-433d-80f6-e4d3e7276516,localized.observer,available,10.99,10.99,high,low,9,namesilo,,,24/08/2026 08:45
 343bf164-a4ba-4078-a0d3-0bce0094d406,esthetics.observer,available,10.99,10.99,high,low,9,namesilo,,,17/09/2026 13:38
 a8362fcb-b14f-4139-a8e2-fece5ea5539f,washer.observer,premium,11.8,11.8,medium,low,6,namesilo,,,21/09/2026 06:54
-c1d9cabd-146a-4ff7-af0b-71824c9abedf,northampton.observer,premium,29.5,29.5,high,low,11,namesilo,,,25/09/2026 14:57
+c1d9cabd-146a-4ff7-af0b-71824c9abedf,northampton.observer,premium,29.5,29.5,medium,low,11,namesilo,,,25/09/2026 14:57
 66c99ba9-43fa-4cc3-8053-470cb10d286c,ache.observer,available,10.99,10.99,medium,low,4,namesilo,,,
 2cc77aa9-0e5d-4e28-bbac-33847e8b8dc3,horrible.observer,available,10.99,10.99,high,low,8,namesilo,,,18/08/2026 15:44
 cb8a47cb-c020-462b-ba26-316fd790230c,obedient.observer,available,10.99,10.99,high,low,8,namesilo,,,03/09/2026 23:30
-2f839bd4-8651-4f47-abbd-39a7388531d1,immortality.observer,available,11.98,16.98,high,low,11,namecheap,,,29/09/2026 05:02
+2f839bd4-8651-4f47-abbd-39a7388531d1,immortality.observer,available,11.98,16.98,medium,low,11,namecheap,,,29/09/2026 05:02
 82f99ff9-596e-4d79-ae06-75b0aec06b51,leisure.observer,premium,26.08,26.08,high,low,7,spaceship,,,28/09/2026 12:28
 ef8a5178-c1b1-422f-82ac-91c50f9aac83,pardon.observer,available,9.85,9.85,high,low,6,dynadot,,,29/09/2026 18:25
 88b86df0-d28b-4ae1-a309-87175369e447,railways.observer,available,11.98,16.98,medium,low,8,namecheap,,,18/09/2026 22:58
-a461e5f8-16b0-4d9b-bb9f-ac41d9b0e535,grueling.observer,available,10.99,10.99,high,low,8,namesilo,,,06/08/2026 16:45
+a461e5f8-16b0-4d9b-bb9f-ac41d9b0e535,grueling.observer,available,10.99,10.99,medium,low,8,namesilo,,,06/08/2026 16:45
 ea80d0bc-43fe-4024-aad5-612556582eea,precambrian.observer,available,9.49,9.49,medium,low,11,spaceship,,,29/09/2026 04:02
 99a90cd7-4e0f-428c-9cf2-6ac3f4420e19,jawless.observer,available,10.99,10.99,medium,low,7,namesilo,,,22/08/2026 12:34
 80cd4d1f-f5ad-4a59-94f4-a27e274524ea,adele.observer,premium,11.8,11.8,high,low,5,namesilo,,,28/09/2026 03:38
-42b016b8-a849-459a-a87b-306231fcb26d,costal.observer,premium,11.8,11.8,high,low,6,namesilo,,,13/08/2026 03:04
+42b016b8-a849-459a-a87b-306231fcb26d,costal.observer,premium,11.8,11.8,medium,low,6,namesilo,,,13/08/2026 03:04
 b96ee4c1-3f11-4978-94e2-c8f52d065776,basophil.observer,available,10.99,10.99,medium,low,8,namesilo,,,22/09/2026 11:30
 31ea89e2-ab49-46dc-87c7-668448e11224,jin.observer,premium,10.55,10.55,high,low,3,spaceship,,,28/09/2026 07:26
 b28580c5-199c-4085-8252-3bcd14772708,unanswered.observer,available,10.99,10.99,medium,low,10,namesilo,,,12/09/2026 00:43
@@ -435,46 +463,52 @@ d844e43b-583f-4c92-9d85-1097fdcdd8d4,reliant.observer,premium,29.5,29.5,high,low
 1251bcc6-7bc4-4bef-85fc-b966e251538f,verifying.observer,available,11.98,16.98,high,low,9,namecheap,,,12/08/2026 20:56
 343ed4f1-ee66-4c03-b5c2-5a7b745fcd97,rained.observer,available,10.99,10.99,medium,low,6,namesilo,,,20/09/2026 05:42
 43ade52e-fdd7-4160-8332-5660667faee2,hardware.observer,premium,25,25,high,low,8,name.com,,,24/09/2026 16:57
+a87e0d18-005c-4412-a186-633c3d3202ff,sheffield.observer,premium,,,high,low,9,,,,01/10/2026 03:42
 cb9a21fe-acd0-4dea-8236-ba6b96b7c32c,assize.observer,available,10.99,10.99,medium,low,6,namesilo,,,20/09/2026 16:30
 f2609d8f-14a7-48ee-939b-a207e3099c67,hyalin.observer,available,10.99,10.99,medium,low,6,namesilo,,,21/08/2026 16:10
 7a83d85a-636e-41a8-af91-55b83919493d,nonesuch.observer,available,11.98,16.98,medium,low,8,namecheap,,,03/09/2026 20:13
+09df75aa-4c34-4e6b-af52-c4c5cbead7f5,plaintiffs.observer,available,10.99,10.99,low,low,10,namesilo,,,01/10/2026 00:55
 59a3cc3d-6dae-4997-ba5a-f43026355dce,carefully.observer,available,9.2,9.2,medium,low,9,cloudflare,,,28/09/2026 13:46
-c153a5ea-62b7-4ce6-9c92-b8dddc7161d2,else.observer,premium,11.8,11.8,high,low,4,namesilo,,,
+c153a5ea-62b7-4ce6-9c92-b8dddc7161d2,else.observer,premium,13,13,high,low,4,namecheap,,,30/09/2026 23:12
 baca75b6-186e-4272-beda-4cae7fd8227b,platypus.observer,available,10.99,10.99,high,low,8,namesilo,,,25/09/2026 00:17
 306e5ea7-9d4c-4ee4-963d-04a7725d772c,misdirect.observer,available,10.99,10.99,medium,low,9,namesilo,,,13/08/2026 02:26
 17291627-f729-4944-93dd-4cf88e4bfcb3,tacitus.observer,available,10.99,10.99,high,low,7,namesilo,,,29/09/2026 07:01
 f27e0288-eb55-432e-8f94-c87a6476d63e,carambola.observer,available,11.98,16.98,medium,low,9,namecheap,,,21/09/2026 09:14
+5f7abe61-f163-46b3-87df-13bb531406dc,fridays.observer,available,10.99,10.99,high,medium,7,namesilo,,,30/09/2026 22:27
 b41a8a4b-2f27-484d-837a-198d3e1b1885,shawn.observer,premium,,,high,low,5,,,,27/09/2026 15:48
 faad6ca3-571e-4d4a-820e-31e25210ad02,reel.observer,premium,29.5,29.5,high,low,4,namesilo,,,24/09/2026 06:24
 214c44c3-1dd3-4874-93c0-f71dc682f0b8,gaming.observer,premium,11.8,11.8,high,low,6,namesilo,,,29/09/2026 20:33
-e7f5589f-60dc-402e-9b70-bb68546230d9,amarillo.observer,premium,1107,1107,high,low,8,namesilo,,,18/09/2026 15:59
+e7f5589f-60dc-402e-9b70-bb68546230d9,amarillo.observer,premium,1107,1107,medium,low,8,namesilo,,,18/09/2026 15:59
 77db8ffe-a9cc-47e6-a756-ccaaba8aa1fd,pictorials.observer,available,10.99,10.99,medium,low,10,namesilo,,,20/09/2026 12:53
 33ec4de4-bf9a-4056-a9bc-9d04e7d98d14,definitively.observer,available,10.99,10.99,medium,low,12,namesilo,,,
 184a2015-bb62-4057-94d9-3d8c261ce2c3,diamond.observer,premium,854,854,high,low,7,namesilo,,,21/09/2026 16:47
-f3c43397-69ed-415f-a649-7b70e4c2bb38,final.observer,premium,15.99,12.5,high,low,5,name.com,,,23/09/2026 19:07
+f3c43397-69ed-415f-a649-7b70e4c2bb38,final.observer,premium,11,11,high,low,5,dynadot,,,30/09/2026 19:09
 cf6df2aa-a157-4206-b008-2cbb9b412ec6,gidgee.observer,available,11.98,16.98,medium,low,6,namecheap,,,16/09/2026 20:01
 a7afeaf8-089b-497d-9849-f526d8899772,drove.observer,available,10.99,10.99,high,low,5,namesilo,,,25/09/2026 22:29
 2b287f6f-5088-47d5-af9e-d3f70e4d801c,propeller.observer,available,9.49,9.49,high,low,9,spaceship,,,29/09/2026 01:54
-7606ba40-59f8-4513-a5ba-0f81ec928a7d,stael.observer,available,10.99,10.99,high,low,5,namesilo,,,22/09/2026 07:38
+7606ba40-59f8-4513-a5ba-0f81ec928a7d,stael.observer,available,10.99,10.99,medium,low,5,namesilo,,,22/09/2026 07:38
+ca12f60f-c175-4794-8524-eff51c0c39a5,soule.observer,available,9.49,9.49,medium,low,5,spaceship,,,30/09/2026 20:15
 a4105b18-a76a-4dbd-bdec-d3a8a8f0776f,thus.observer,available,9.49,9.49,high,low,4,spaceship,,,28/09/2026 15:12
-74d934f9-a590-4bfc-b35b-85f0ffb0c400,eid.observer,premium,11.8,11.8,high,low,3,namesilo,,,
+74d934f9-a590-4bfc-b35b-85f0ffb0c400,eid.observer,premium,11.8,11.8,high,low,3,namesilo,,,01/10/2026 02:59
 73559a9d-5307-4b9e-985d-2edbff1cac99,stool.observer,available,10.99,10.99,high,medium,5,namesilo,,,09/09/2026 00:53
 db2ec9d9-7f52-4764-aaef-1156ee9445c4,aimless.observer,available,10.99,10.99,medium,low,7,namesilo,,,
 9bf213f8-2253-443c-acfb-99b9319b4fcd,candour.observer,available,15.99,15.99,high,low,7,name.com,,,24/09/2026 12:03
 3b7632d0-d1f5-43b6-be5e-06c3ccdf5540,stainless.observer,available,11.98,16.98,high,low,9,namecheap,,,10/09/2026 18:15
 7de1d20a-aa75-4725-b340-fb0a14ceb748,identifying.observer,available,9.49,9.49,high,low,11,spaceship,,,29/09/2026 08:55
+97932a64-f079-4cfc-8a34-0d229b8eec15,blanks.observer,premium,11.8,11.8,low,low,6,namesilo,,,01/10/2026 00:46
 09cd41fa-ac6a-40c0-9abb-86caf4ce2d02,historical.observer,premium,29.5,29.5,high,low,10,namesilo,,,24/09/2026 10:25
-747f8aa4-fadc-48d4-a35a-92766086087f,what.observer,premium,32.5,32.5,high,low,4,namecheap,,,25/09/2026 15:23
+0251e85d-c51c-48e1-85ff-b850023a545a,locust.observer,premium,,,medium,low,6,,,,30/09/2026 17:55
+747f8aa4-fadc-48d4-a35a-92766086087f,what.observer,premium,32.5,32.5,high,medium,4,namecheap,,,30/09/2026 22:04
 98f024f8-67d0-490d-8f73-27d2a8a7a6be,autobus.observer,available,10.99,10.99,high,low,7,namesilo,,,21/09/2026 05:51
 4128307c-8bda-43af-a96b-b34476715616,poitiers.observer,available,10.99,10.99,medium,low,8,namesilo,,,22/09/2026 15:48
-77a334a1-ef61-4d7f-b3da-9c11ef9d8abd,properly.observer,premium,13,13,high,low,8,namecheap,,,13/08/2026 21:12
+77a334a1-ef61-4d7f-b3da-9c11ef9d8abd,properly.observer,premium,13,13,medium,low,8,namecheap,,,13/08/2026 21:12
 6f9c75e4-39ea-4b64-98fa-38bb41c48bd8,mailed.observer,available,10.99,10.99,high,low,6,namesilo,,,24/08/2026 13:18
 82b4e12c-3a10-47c4-b960-5219c18b1d42,escape.observer,premium,29.5,29.5,high,low,6,namesilo,,,24/09/2026 23:22
-50cb3c9b-5f5b-40a2-a998-1b98feb72a34,feeler.observer,available,10.99,10.99,high,low,6,namesilo,,,22/09/2026 04:48
-ec5020ae-871c-4351-867d-f0d2d95d6657,macleod.observer,available,9.2,9.2,high,low,7,cloudflare,,,28/09/2026 02:12
+50cb3c9b-5f5b-40a2-a998-1b98feb72a34,feeler.observer,available,10.99,10.99,medium,low,6,namesilo,,,22/09/2026 04:48
+ec5020ae-871c-4351-867d-f0d2d95d6657,macleod.observer,available,9.2,9.2,medium,low,7,cloudflare,,,28/09/2026 02:12
 3834a16b-7c16-419a-ae92-806aac8d443e,exaggerated.observer,available,11.98,16.98,medium,low,11,namecheap,,,29/09/2026 14:24
 30d41cd4-26be-43da-ace5-616c2f538ad0,gasoline.observer,available,10.99,10.99,high,low,8,namesilo,,,27/09/2026 13:38
-c53499a5-f2d8-4b54-920c-5d3e11b6186f,enrich.observer,premium,11.8,11.8,high,low,6,namesilo,,,
+c53499a5-f2d8-4b54-920c-5d3e11b6186f,enrich.observer,premium,11.8,11.8,high,low,6,namesilo,,,30/09/2026 19:11
 fc9a3ef3-1342-44fd-9d15-e947d922be7a,additional.observer,available,11.98,16.98,high,low,10,namecheap,,,21/09/2026 17:14
 57089732-c31f-46ca-8309-3d73fb266123,increased.observer,available,10.99,10.99,high,low,9,namesilo,,,25/09/2026 08:09
 db11bc59-0d54-4dc1-bb45-b8881a441b9d,proustian.observer,available,10.99,10.99,medium,low,9,namesilo,,,09/09/2026 04:22
@@ -486,15 +520,18 @@ c8321145-e608-48cb-ba2e-954715a5f2a4,isotopic.observer,available,10.99,10.99,med
 3749ab2f-5876-4203-878d-9adf7896f2d9,berretta.observer,available,10.99,10.99,medium,low,8,namesilo,,,23/09/2026 10:07
 71b3742f-7343-47d1-83fc-ed2dd32ddef8,rob.observer,premium,32.5,32.5,high,low,3,namecheap,,,25/09/2026 22:49
 91d6e827-3ce0-49a4-b157-f06016ba296c,santo.observer,premium,13,13,high,low,5,namecheap,,,25/09/2026 11:17
+a62f366e-a24b-4361-a31e-6008bba26e17,shrunk.observer,available,9.2,9.2,medium,low,6,cloudflare,,,01/10/2026 04:31
+a74c5f05-4ea8-4a70-a783-8a3ae029c685,mahabharata.observer,available,9.49,9.49,high,low,11,spaceship,,,30/09/2026 20:17
 1fb9eb08-7278-400b-a8df-b3fe28ded172,nilpotent.observer,available,10.99,10.99,medium,low,9,namesilo,,,03/09/2026 17:28
 720d8127-4ecb-4ef0-9c18-872b1e40f290,aspherical.observer,available,10.99,10.99,medium,low,10,namesilo,,,07/08/2026 04:57
 053b3c6b-5f2c-46a6-b10e-7c0a237370f8,pictures.observer,premium,26.08,26.08,high,low,8,spaceship,,,29/09/2026 19:18
 6fb65e83-2114-4e1a-9009-81e59ceafe8b,mitotic.observer,available,10.99,10.99,medium,low,7,namesilo,,,25/08/2026 02:08
-075d926d-34ef-4447-bfd7-156827ab210d,functioning.observer,available,11.98,16.98,high,low,11,namecheap,,,28/09/2026 21:19
+075d926d-34ef-4447-bfd7-156827ab210d,functioning.observer,available,11.98,16.98,medium,low,11,namecheap,,,28/09/2026 21:19
 39f63bf1-be78-4d03-aaa9-d596c4f1cba8,bauhinia.observer,available,11.98,16.98,medium,low,8,namecheap,,,22/09/2026 16:38
 3926608c-b909-4031-a937-75432dde5e53,alchemy.observer,premium,23.6,23.6,high,medium,7,namesilo,,,18/09/2026 03:59
 2e229b8c-41ea-48db-a905-11ac24b2560a,dimple.observer,premium,11.8,11.8,high,low,6,namesilo,,,24/09/2026 22:21
 b285087d-4381-4350-84e0-53792450cd35,generously.observer,available,11.98,16.98,high,low,10,namecheap,,,14/09/2026 21:14
+8f3b2a16-74df-4884-8424-e96ef48a5a8e,seniority.observer,available,9.49,9.49,high,low,9,spaceship,,,30/09/2026 17:37
 f4ad550a-d414-4ce1-ac4d-e691969afa3e,stream.observer,premium,29.5,29.5,high,medium,6,namesilo,,,27/09/2026 05:33
 47bdc0d0-fd2b-4050-b0c4-49a6f6504d57,fourteen.observer,available,10.99,10.99,high,low,8,namesilo,,,21/09/2026 11:38
 b7527d67-7832-4d8b-b707-310229bea838,aphakia.observer,available,10.99,10.99,medium,low,7,namesilo,,,19/09/2026 16:51
@@ -513,6 +550,7 @@ efb7ce6a-4f13-4356-b55f-e02f61367098,confiding.observer,available,10.99,10.99,hi
 1af569fe-64ff-47dc-837b-9bee37f23989,nacreous.observer,available,10.99,10.99,medium,low,8,namesilo,,,03/09/2026 12:37
 21781512-3072-41df-aca8-a868da07c44e,textbook.observer,premium,23.6,23.6,high,low,8,namesilo,,,23/09/2026 13:09
 ee3f56b4-c934-40ff-b3f7-743c5de3986a,impeccable.observer,premium,11.8,11.8,high,low,10,namesilo,,,18/08/2026 00:09
+9ef3b9f7-09d6-4a0d-95fb-29e347cb2d83,icing.observer,available,11.98,16.98,high,low,5,namecheap,,,01/10/2026 02:14
 8fec7627-995e-4178-a78f-4ad0aee9311c,gar.observer,premium,11.8,11.8,medium,low,3,namesilo,,,23/09/2026 16:11
 70381cec-1406-412a-bf44-d3083f4bc799,surviving.observer,available,10.99,10.99,high,low,9,namesilo,,,11/09/2026 04:49
 e122eed1-4a08-4a6f-940f-f1ce4edf56d0,rethink.observer,premium,23.6,23.6,high,low,7,namesilo,,,17/09/2026 15:53
@@ -520,7 +558,7 @@ c2e4c411-f369-476f-92b3-97f2f41ef6c5,devotes.observer,available,11.98,16.98,medi
 1c8c05f6-a531-4655-a280-3e4f7e923acb,surrendered.observer,available,9.49,9.49,low,low,11,spaceship,,,29/09/2026 05:38
 db475afc-bafe-46c2-987d-54ed4c124bff,immorality.observer,available,10.99,10.99,medium,low,10,namesilo,,,17/08/2026 15:04
 41c412dd-494c-48e9-8122-9c36c90699d6,chestnut.observer,premium,11.8,11.8,high,low,8,namesilo,,,23/09/2026 14:04
-b3fc2bf5-7ddd-4c42-b631-de6b02637fb4,sneaking.observer,available,10.99,10.99,high,low,8,namesilo,,,29/09/2026 14:54
+b3fc2bf5-7ddd-4c42-b631-de6b02637fb4,sneaking.observer,available,10.99,10.99,medium,low,8,namesilo,,,29/09/2026 14:54
 cd520bf4-5d7d-4e5e-b282-9e4bf8564fa3,enjoyed.observer,available,10.99,10.99,medium,low,7,namesilo,,,25/09/2026 20:42
 eff73c33-effe-4898-b53c-6b89d9794aba,taste.observer,premium,10.55,10.55,high,low,5,spaceship,,,29/09/2026 21:45
 a78a5f8b-e568-467a-a588-74f6c0e1e926,destroys.observer,available,9.49,9.49,low,low,8,spaceship,,,29/09/2026 05:36
@@ -537,6 +575,7 @@ b4a3c7e5-4802-48b3-9fa9-4141c4895a16,afterward.observer,available,10.99,10.99,me
 e116b067-c774-440d-a0db-a0ac12f11233,azimuth.observer,premium,15.99,12.5,high,low,7,name.com,,,21/09/2026 10:54
 5acdad88-f4e4-481a-9647-2b21e8945b24,scourge.observer,available,10.99,10.99,medium,low,7,namesilo,,,18/08/2026 06:16
 81758aa4-20ef-4e0b-ac06-62c09bcf06d8,guarantees.observer,available,10.99,10.99,medium,low,10,namesilo,,,29/09/2026 11:28
+8077c11d-f906-492b-a8c1-67b177d76b21,clowns.observer,available,9.49,9.49,medium,low,6,spaceship,,,30/09/2026 07:41
 1e19beea-c8c0-44f1-9745-6f69c79568cb,abm.observer,premium,11.8,11.8,high,low,3,namesilo,,,16/09/2026 16:15
 ea12c36b-7b8e-4c2d-8a6f-3da9b838ced8,bimetal.observer,available,10.99,10.99,high,low,7,namesilo,,,09/08/2026 22:52
 99d93533-a073-4e81-aabf-51c7d1e902b2,lissom.observer,available,10.99,10.99,medium,low,6,namesilo,,,23/08/2026 23:41
@@ -549,7 +588,7 @@ eded3d45-e47a-4ab6-ad6c-cd29135a0919,plug.observer,premium,10.55,10.55,high,low,
 14999e5b-7b19-472b-9fcb-8cfbcf99a76e,axis.observer,premium,828.2,828.2,high,medium,4,spaceship,,,28/09/2026 23:58
 e9f85ee2-5dd7-443e-9aa9-e861b3b69127,urgent.observer,premium,11.8,11.8,high,low,6,namesilo,,,27/09/2026 06:05
 5e6b168f-9076-4405-9026-dd0bddea52bd,arkansas.observer,premium,1107,1107,high,low,8,namesilo,,,20/09/2026 06:13
-d3ea241e-eb61-48ed-917e-fe362ece0584,censored.observer,available,10.99,10.99,high,low,8,namesilo,,,11/08/2026 23:47
+d3ea241e-eb61-48ed-917e-fe362ece0584,censored.observer,available,10.99,10.99,medium,low,8,namesilo,,,11/08/2026 23:47
 67fce63d-a1f4-4c8f-be75-ff7fd302313a,nova.observer,premium,854,854,high,medium,4,namesilo,,,29/09/2026 01:44
 24954790-1974-49b7-93cc-10b450c332dc,lazily.observer,available,10.99,10.99,medium,low,6,namesilo,,,15/09/2026 01:40
 e4a2d5f4-7fae-4545-b9f1-11d87c7a2cb1,video.observer,premium,880,880,high,medium,5,dynadot,,,30/09/2026 02:58
@@ -561,6 +600,7 @@ d0b3879a-5f31-4e1a-abc2-f3a7cc0319ce,downgrade.observer,available,10.99,10.99,me
 ad6017da-79a2-42b2-a3de-216d7436c9b6,medic.observer,premium,,,high,low,5,,,,29/09/2026 19:38
 2b111224-357f-4c4d-b3f9-15f081fd5fa5,zone.observer,premium,854,854,high,low,4,namesilo,,,29/09/2026 16:21
 53c56484-be1c-4626-9390-14c680826604,tutor.observer,premium,23.6,23.6,high,low,5,namesilo,,,28/09/2026 10:46
+761adb33-83ce-4964-a507-95236927eff8,presbyterian.observer,available,9.49,9.49,high,low,12,spaceship,,,30/09/2026 03:55
 8b484da9-2af5-44c9-b440-23caa22e5aec,nuclear.observer,available,10.99,10.99,high,low,7,namesilo,,,25/09/2026 23:22
 ea4928f6-b4c5-4569-8819-a09635e514c2,wintery.observer,available,10.99,10.99,medium,low,7,namesilo,,,13/09/2026 12:39
 dfd1671d-1f18-4399-9f80-efcdc10063fa,abreaction.observer,available,10.99,10.99,medium,low,10,namesilo,,,16/09/2026 17:06
@@ -568,7 +608,7 @@ dfd1671d-1f18-4399-9f80-efcdc10063fa,abreaction.observer,available,10.99,10.99,m
 4120e9c5-79da-4b4f-8ff2-49abd44a7ad4,octet.observer,available,11.98,16.98,high,low,5,namecheap,,,
 1a664500-122d-4250-9bee-78996db5c6f5,cuyahoga.observer,premium,13,13,medium,low,8,namecheap,,,29/09/2026 10:08
 7c64ae1f-6029-4349-8dc8-43a2c4a0d5e4,berkelium.observer,available,10.99,10.99,medium,low,9,namesilo,,,21/09/2026 00:14
-399caac2-45dd-4fcf-8626-9931ac24bbbc,formalized.observer,available,10.99,10.99,high,low,10,namesilo,,,18/08/2026 12:03
+399caac2-45dd-4fcf-8626-9931ac24bbbc,formalized.observer,available,10.99,10.99,medium,low,10,namesilo,,,18/08/2026 12:03
 f46782d0-0886-4286-b48e-6ed16e986ee2,medieval.observer,available,10.99,10.99,high,low,8,namesilo,,,27/09/2026 06:57
 bfe4b3c7-bd6b-4792-9dca-62f62277a7dd,verifiable.observer,available,10.99,10.99,high,low,10,namesilo,,,12/08/2026 20:51
 4e5b7f38-09db-4225-a3a3-4b0a73e97ba4,landed.observer,premium,29.5,29.5,high,low,6,namesilo,,,22/08/2026 19:22
@@ -583,26 +623,29 @@ ea4e1b29-674a-41b4-abb0-f147ea572045,demolished.observer,available,10.99,10.99,m
 ef1f0e7b-546e-40e6-b4a0-c7d9577dae4a,killings.observer,available,10.99,10.99,low,low,8,namesilo,,,28/09/2026 23:59
 6d19037c-0c1d-4997-8ee7-134f69b9f8d1,sectarian.observer,available,10.99,10.99,medium,low,9,namesilo,,,10/09/2026 01:13
 4f3ad7ea-745a-4737-9080-7dcc1dc6a860,austen.observer,available,11.98,16.98,high,low,6,namecheap,,,21/09/2026 04:37
+32b95e81-e4cb-4e1c-b214-737869082d33,bremer.observer,premium,10.55,10.55,high,low,6,spaceship,,,30/09/2026 04:16
 cd6d6eae-8fc0-46fa-8218-63ed447700d5,bennington.observer,premium,23.6,23.6,high,low,10,namesilo,,,23/09/2026 08:33
 9bccc999-4ec6-4c5a-87fe-9cdcc92d42e6,boleyn.observer,available,10.99,10.99,medium,low,6,namesilo,,,19/09/2026 10:12
 d598d5c9-a22c-4b3b-b503-078a27fda57f,relaxation.observer,available,9.2,9.2,high,low,10,cloudflare,,,29/09/2026 12:08
 7dbc59cb-e7eb-4aa9-9801-7e84f57fd344,glut.observer,available,10.99,10.99,medium,low,4,namesilo,,,23/09/2026 17:21
 1fbd437f-9f12-47d5-a072-4b37f64af30d,byron.observer,premium,22.36,22.36,medium,low,5,porkbun,,,28/09/2026 18:32
 8438dc96-3345-453f-9b1e-11cffe10ee80,stuff.observer,premium,32.5,32.5,high,low,5,namecheap,,,25/09/2026 17:52
+d3a16f5d-e184-45ed-8226-7fe4efa24fa9,instances.observer,available,10.99,10.99,medium,low,9,namesilo,,,30/09/2026 23:59
 d2a4f46a-bf9e-4cf7-84d1-9dd67a921c04,immutably.observer,available,10.99,10.99,medium,low,9,namesilo,,,15/09/2026 02:06
 73980d1c-964c-4c71-85e0-33c9506185e5,alummah.observer,available,10.99,10.99,medium,low,8,namesilo,,,18/09/2026 01:08
 c989a75e-18fb-45b6-9f70-392af76f3afb,hinterland.observer,available,10.99,10.99,high,low,10,namesilo,,,21/09/2026 14:33
 bcaa52a6-cf1d-42a8-a786-204db5d85b2e,demolition.observer,available,10.99,10.99,high,low,10,namesilo,,,24/09/2026 21:50
 4c88fe23-c1f6-4227-bed4-4b9d8612b496,proud.observer,premium,11.8,11.8,high,low,5,namesilo,,,27/09/2026 07:46
-976a9217-225d-4b38-b227-0247ee1b725f,unwed.observer,available,10.99,10.99,high,low,5,namesilo,,,12/09/2026 22:35
+976a9217-225d-4b38-b227-0247ee1b725f,unwed.observer,available,10.99,10.99,medium,low,5,namesilo,,,12/09/2026 22:35
 312c43f3-e3af-4d32-9011-09b9f0306230,rakish.observer,available,15.99,15.99,medium,low,6,name.com,,,13/08/2026 17:34
+1b56dd7d-ac36-4d92-8b41-2bc30d32c157,patrons.observer,available,9.2,9.2,high,low,7,cloudflare,,,30/09/2026 14:47
 6821a14e-55a1-4aa0-91c5-a14a7847cabe,orally.observer,available,11.98,16.98,medium,low,6,namecheap,,,15/09/2026 18:11
 ef2d89bc-c179-45fb-8732-e99a4815d5b2,celery.observer,available,10.99,10.99,high,low,6,namesilo,,,19/09/2026 17:33
 6ed5a09b-08fd-4f9b-8792-1a8de5642236,extract.observer,available,10.99,10.99,high,low,7,namesilo,,,28/09/2026 14:05
 7c17ee1c-d410-471e-8c8f-ceeb83a76343,wristband.observer,available,10.99,10.99,high,low,9,namesilo,,,24/09/2026 07:49
 4862cf40-3bc8-4877-90d4-273349660d88,gaga.observer,available,10.99,10.99,medium,low,4,namesilo,,,14/08/2026 14:34
-25771049-4310-4558-bb2b-c3f53fc85e99,alaric.observer,available,10.99,10.99,high,low,6,namesilo,,,18/09/2026 01:52
-20a088a6-17e4-422d-b7d1-2bd4eef0db45,uniformed.observer,available,10.99,10.99,high,low,9,namesilo,,,12/09/2026 12:57
+25771049-4310-4558-bb2b-c3f53fc85e99,alaric.observer,available,10.99,10.99,medium,low,6,namesilo,,,18/09/2026 01:52
+20a088a6-17e4-422d-b7d1-2bd4eef0db45,uniformed.observer,available,10.99,10.99,medium,low,9,namesilo,,,12/09/2026 12:57
 472a02b2-812c-47f6-a87e-bc232f6967e0,nurtural.observer,available,10.99,10.99,medium,low,8,namesilo,,,03/09/2026 23:07
 d1bf1814-145d-43cc-acc0-ec0bf615832c,photo.observer,premium,880,880,high,medium,5,dynadot,,,29/09/2026 14:22
 cefeb3da-a0a9-479d-a4e6-eb651669d142,lyrate.observer,available,10.99,10.99,medium,low,6,namesilo,,,24/08/2026 12:39
@@ -612,6 +655,7 @@ c3f725fa-68aa-45a6-98e5-a239eac88a9a,hour.observer,premium,854,854,high,low,4,na
 12e2d1f2-4dd3-4e76-bbca-3b6bfe4784a1,luis.observer,premium,29.5,29.5,high,low,4,namesilo,,,25/09/2026 14:41
 acb2d90d-ba85-4b59-ab0a-1f7bf51ecd7f,godown.observer,available,10.99,10.99,medium,low,7,namesilo,,,
 6d7ff461-74ae-45d9-a360-411836e63273,gardening.observer,premium,,,high,low,9,,,,28/09/2026 14:15
+a3723d3a-e2f7-4039-aee4-ba875771c592,parrott.observer,premium,10.55,10.55,medium,low,7,spaceship,,,30/09/2026 21:39
 588aabab-5549-4acc-b6fd-376ad253fdd8,parke.observer,premium,10.55,10.55,medium,low,5,spaceship,,,28/09/2026 22:16
 1416d8d5-2101-4cc6-a050-18ad44841184,eudaimonia.observer,available,10.99,10.99,high,low,10,namesilo,,,12/09/2026 23:00
 dc1daa39-8af9-4810-9c59-3f5efe23f864,batsman.observer,available,10.99,10.99,medium,low,7,namesilo,,,22/09/2026 14:19
@@ -630,27 +674,32 @@ ae5f3e24-8571-493f-b99f-2af1e618f19d,autism.observer,premium,11.8,11.8,high,low,
 184c390c-23fb-451a-a2d0-0dcee39f7cd2,recidivist.observer,available,10.99,10.99,medium,low,10,namesilo,,,21/09/2026 15:57
 388e2cbf-9e0a-4e79-b0be-d8b71f0b27be,hunker.observer,premium,11.8,11.8,medium,low,6,namesilo,,,10/09/2026 17:39
 278d2e4b-f36a-4ba2-a07d-57c232e489e3,pitched.observer,available,11.98,16.98,high,medium,7,namecheap,,,08/09/2026 20:03
-97deafb9-ff7c-42f0-9239-3312a923dc70,cedric.observer,premium,10.55,10.55,high,low,6,spaceship,,,29/09/2026 11:42
+51863af1-a8d5-4536-b35b-af44f8e3d9fb,eastman.observer,premium,10.55,10.55,high,medium,7,spaceship,,,30/09/2026 09:28
+97deafb9-ff7c-42f0-9239-3312a923dc70,cedric.observer,premium,10.55,10.55,medium,low,6,spaceship,,,29/09/2026 11:42
 e78ef453-aeb9-4bcf-b432-37c121248621,christmas.observer,premium,11.8,11.8,high,low,9,namesilo,,,29/09/2026 09:08
 75fc74f6-8bb1-4f4b-ae90-ad0ea56dfc96,surgical.observer,premium,11.8,11.8,high,low,8,namesilo,,,11/09/2026 04:01
 b816644d-1461-4c78-ae59-da564c14f5ac,current.observer,premium,29.5,29.5,high,low,7,namesilo,,,27/09/2026 06:51
 8f21286f-be38-4b41-bb56-072bf6543669,countable.observer,available,10.99,10.99,high,low,9,namesilo,,,13/08/2026 03:28
 ee2197fe-d3ac-46f7-ae1b-179f16013929,forgotten.observer,available,10.99,10.99,high,low,9,namesilo,,,14/08/2026 12:18
-08e84833-c6aa-4d70-b115-cefa2c30f2bd,hemorrhage.observer,available,10.99,10.99,high,low,10,namesilo,,,24/09/2026 05:28
+08e84833-c6aa-4d70-b115-cefa2c30f2bd,hemorrhage.observer,available,10.99,10.99,medium,low,10,namesilo,,,24/09/2026 05:28
 a48fd77f-8707-4f67-a057-be8147df0bfa,appleton.observer,premium,1300,1300,medium,low,8,namecheap,,,19/09/2026 21:41
 4585343d-5049-4f6e-bcba-f1f9e0d65843,leonard.observer,premium,11.8,11.8,high,low,7,namesilo,,,25/09/2026 22:27
-6c1908cd-f0b5-4b03-8b0e-a007d831e7ba,disclosed.observer,available,10.99,10.99,high,low,9,namesilo,,,24/09/2026 11:06
+a0bdbbbb-8562-4e82-917d-0f4d829590b9,shank.observer,premium,11,11,medium,low,5,dynadot,,,01/10/2026 03:41
+625408e8-4e22-4cce-b3af-041b605b9e28,hogg.observer,available,9.2,9.2,medium,low,4,cloudflare,,,01/10/2026 02:37
+6c1908cd-f0b5-4b03-8b0e-a007d831e7ba,disclosed.observer,available,10.99,10.99,medium,low,9,namesilo,,,24/09/2026 11:06
 74d04a9d-52d8-4862-9fd2-25d1e689d4cf,acrobatics.observer,available,15.99,15.99,high,low,10,name.com,,,17/09/2026 03:19
 983f074a-dabd-4a8d-8384-3287f4a50a9e,types.observer,available,10.99,10.99,medium,low,5,namesilo,,,18/09/2026 16:19
 a2220007-d6b8-4390-8bf6-9e5b9ba22b9f,perspective.observer,premium,11.8,11.8,high,low,11,namesilo,,,
-d87e4da0-4e94-4af2-a2cb-2607ec5be671,jitney.observer,available,10.99,10.99,high,low,6,namesilo,,,21/09/2026 05:56
+d87e4da0-4e94-4af2-a2cb-2607ec5be671,jitney.observer,available,10.99,10.99,medium,low,6,namesilo,,,21/09/2026 05:56
 847c9212-8e3f-46d8-bfa2-9e8d7924742c,bilsted.observer,available,11.98,16.98,medium,low,7,namecheap,,,18/09/2026 20:49
+b96d4e7c-0882-4610-ac2f-12908343b4d6,redford.observer,premium,13,13,medium,low,7,namecheap,,,30/09/2026 09:06
 18fc5fb4-927c-4b78-b0f6-d7aafc86adff,leeds.observer,premium,828.2,828.2,high,low,5,spaceship,,,29/09/2026 13:17
-6aa9f9fc-89ba-42ec-84cc-246ed8403463,crockett.observer,premium,13,13,high,low,8,namecheap,,,28/09/2026 01:43
+6aa9f9fc-89ba-42ec-84cc-246ed8403463,crockett.observer,premium,13,13,medium,low,8,namecheap,,,28/09/2026 01:43
 6abdb5e0-eabf-433c-9b04-a684dbfe4a4b,distrust.observer,available,11.98,16.98,high,low,8,namecheap,,,24/09/2026 23:13
 5e98466b-82e6-445f-a74f-b035a0ef4c47,pendulous.observer,available,10.99,10.99,medium,low,9,namesilo,,,12/08/2026 00:50
 cc2f8139-c7f4-419a-afb6-3419442c33e5,motorcar.observer,available,10.99,10.99,high,low,8,namesilo,,,21/09/2026 05:29
 33ba3b4e-14e5-460f-bb8c-a46f7c152d7c,kim.observer,premium,32.5,32.5,high,low,3,namecheap,,,25/09/2026 19:17
+0c2bbcbf-30b9-45ae-905b-3535e6d91f9b,vibrating.observer,available,9.49,9.49,medium,low,9,spaceship,,,30/09/2026 14:24
 b15bfe43-0268-49a1-b4ad-036634b4e708,clouds.observer,premium,11.8,11.8,high,low,6,namesilo,,,27/09/2026 09:07
 dcd7a254-8485-4546-a705-7f901f8c7866,hbo.observer,premium,11.8,11.8,high,medium,3,namesilo,,,
 c9e1ebcc-80a6-4d9e-8785-179ff7ebbd63,tiddler.observer,available,10.99,10.99,medium,low,7,namesilo,,,25/08/2026 00:10
@@ -664,15 +713,17 @@ bf793759-706d-4f68-a26b-bcd427ab00d5,shales.observer,available,9.2,9.2,low,low,6
 e57d40ed-61d4-4baa-accf-fe26a8985810,footer.observer,available,10.99,10.99,high,low,6,namesilo,,,08/09/2026 12:38
 2a3aa657-946d-4a38-bb4e-7ef12f6ff69c,stunner.observer,available,10.99,10.99,high,low,7,namesilo,,,22/08/2026 16:40
 9ea8da60-de72-4efa-bd6d-ee6dde2eab25,avocado.observer,premium,11.8,11.8,high,low,7,namesilo,,,22/09/2026 14:34
-93b4992a-ff29-493a-90d1-ab60beb19d24,actors.observer,premium,14,14,high,low,6,namecheap,,,
-83eada3f-77b1-4dc9-a05d-2d1a08203976,yung.observer,premium,10.55,10.55,high,low,4,spaceship,,,29/09/2026 22:41
+93b4992a-ff29-493a-90d1-ab60beb19d24,actors.observer,premium,14,14,medium,low,6,namecheap,,,
+c5c7f901-1040-4690-9c82-def801bc7759,believers.observer,available,9.78,9.78,high,low,9,porkbun,,,30/09/2026 13:58
+83eada3f-77b1-4dc9-a05d-2d1a08203976,yung.observer,premium,10.55,10.55,medium,low,4,spaceship,,,29/09/2026 22:41
 dddb6ebd-cade-458c-ada9-e811e14a7704,conceptual.observer,premium,13,13,high,low,10,namecheap,,,12/08/2026 20:05
 88b2aa41-31da-4f73-a2b9-dd4599e97693,marek.observer,premium,13,13,high,low,5,namecheap,,,29/09/2026 17:56
 fd66b29f-47f6-4efd-8ba1-26304a7fae50,metacarpal.observer,available,11.98,16.98,medium,low,10,namecheap,,,24/08/2026 21:30
 4880e865-0689-427a-a9ea-1e150f97750c,idiotic.observer,available,11.98,16.98,medium,low,7,namecheap,,,24/09/2026 01:17
 39a23ba9-007d-4539-9580-c4e365d59b07,obsessive.observer,available,10.99,10.99,high,low,9,namesilo,,,25/09/2026 23:45
+918893b3-047d-4169-ac33-33680767f26a,katanga.observer,available,11.98,16.98,medium,low,7,namecheap,,,30/09/2026 21:27
 a9214365-ccf7-4162-91f1-9b8cb8ced063,surrender.observer,available,10.99,10.99,high,low,9,namesilo,,,28/09/2026 11:23
-e7c62f90-d363-42c7-8bbc-50860fc018e4,freeze.observer,premium,13,13,high,low,6,namecheap,,,25/09/2026 22:53
+e7c62f90-d363-42c7-8bbc-50860fc018e4,freeze.observer,premium,13,13,medium,low,6,namecheap,,,25/09/2026 22:53
 87513c53-2e27-4a94-8ac4-3260219cdb9a,pins.observer,premium,11.8,11.8,high,low,4,namesilo,,,18/09/2026 08:25
 c0f8f510-b39f-4a0a-86d3-64de99356181,arabian.observer,premium,11.8,11.8,high,low,7,namesilo,,,06/08/2026 11:05
 3bc243c4-5360-43ea-aff2-1d8f300e46d5,balefire.observer,available,10.99,10.99,medium,low,8,namesilo,,,21/09/2026 21:52
@@ -681,10 +732,11 @@ cdee4195-5ef5-42ed-9c05-81c5de03bd62,idiom.observer,available,9.2,9.2,high,low,5
 132e6c71-623d-4d7c-9c9e-fd9c7f313b93,watersheds.observer,available,9.49,9.49,low,low,10,spaceship,,,28/09/2026 23:41
 424f909d-d86c-47cd-b0d5-51cc822d178f,foucault.observer,available,9.49,9.49,medium,low,8,spaceship,,,28/09/2026 19:15
 b95813e5-41e1-4651-bc80-e7eeca219ffe,midautumn.observer,available,10.99,10.99,high,low,9,namesilo,,,17/09/2026 10:02
+9feb50c8-cf84-4daa-ae61-1ede83ee8345,ifa.observer,premium,10.55,10.55,high,low,3,spaceship,,,30/09/2026 04:19
 997af77a-e4f2-41d0-9a68-e782e3fe2c6a,colony.observer,premium,,,high,low,6,,,,27/09/2026 12:41
 35534c27-a31d-4eb9-9398-c0a90bcfee64,obligations.observer,available,9.49,9.49,low,low,11,spaceship,,,29/09/2026 05:17
 c189f377-5b33-471d-b665-53e702760f63,stealthily.observer,available,10.99,10.99,medium,low,10,namesilo,,,16/09/2026 06:59
-57979211-8b4d-4475-a82d-d8e6c434e845,shoes.observer,premium,29.5,29.5,high,low,5,namesilo,,,25/09/2026 13:59
+57979211-8b4d-4475-a82d-d8e6c434e845,shoes.observer,premium,26.08,26.08,high,low,5,spaceship,,,30/09/2026 11:10
 7b383aad-b3f0-431f-9733-74df5a985b34,dame.observer,available,11.98,16.98,high,low,4,namecheap,,,24/09/2026 20:56
 766e56ae-9f61-4a0a-a924-5f8d19fa6fb0,necked.observer,available,10.99,10.99,medium,low,6,namesilo,,,03/09/2026 14:40
 d5e39b06-0e82-41e8-9ebe-5eb60afe915a,celebrated.observer,available,10.99,10.99,high,low,10,namesilo,,,11/08/2026 23:10
@@ -693,23 +745,29 @@ f5e5e032-1592-4f88-81a7-9c3b1876e691,dissolved.observer,available,10.99,10.99,me
 0dd59bc1-c466-4e80-bd6a-aebd6dc4d6b9,myopic.observer,available,10.99,10.99,medium,low,6,namesilo,,,03/09/2026 12:14
 ae385863-4397-47cc-9bd5-256500d7d30d,weeds.observer,available,9.49,9.49,high,low,5,spaceship,,,29/09/2026 08:19
 569f428b-a736-45e9-a7c9-1e1391d9cf87,corpulence.observer,available,10.99,10.99,medium,low,10,namesilo,,,04/09/2026 22:00
-d4f93d65-c8fd-43fb-9646-100074e3a40c,elmore.observer,premium,11.44,11.44,high,low,6,porkbun,,,29/09/2026 10:03
+d4f93d65-c8fd-43fb-9646-100074e3a40c,elmore.observer,premium,11.44,11.44,medium,low,6,porkbun,,,29/09/2026 10:03
 3efb6a93-65dc-48ed-a4a4-d2ed6d495c71,faced.observer,available,11.98,16.98,high,low,5,namecheap,,,17/08/2026 20:20
 d4b1d957-a150-4080-a7de-03e9a51c2907,indigen.observer,available,10.99,10.99,medium,low,7,namesilo,,,03/09/2026 13:47
-586f0c50-4b3f-4f44-b295-9622fa970db6,trial.observer,premium,14,14,high,low,5,namecheap,,,
+586f0c50-4b3f-4f44-b295-9622fa970db6,trial.observer,premium,14,14,high,low,5,namecheap,,,30/09/2026 13:04
 1e3dccbe-6be7-4be9-a6e9-b1daae7169a5,schroeder.observer,premium,,,high,low,9,,,,28/09/2026 08:07
 e93274c4-ee3d-43d7-8c6b-8b283d7b05e7,xii.observer,premium,11.8,11.8,high,low,3,namesilo,,,21/09/2026 11:25
 26ec55ae-5439-4b9b-8894-efecf10bcc4d,illegalize.observer,available,11.98,16.98,medium,low,10,namecheap,,,04/09/2026 19:26
-a46d9608-c385-4227-9e0a-af1505fdbc0e,skillfully.observer,available,10.99,10.99,high,low,10,namesilo,,,16/09/2026 02:07
+a46d9608-c385-4227-9e0a-af1505fdbc0e,skillfully.observer,available,10.99,10.99,medium,low,10,namesilo,,,16/09/2026 02:07
 c3f756f4-40d4-4c95-938a-2c24879ccc4b,flukey.observer,available,10.99,10.99,medium,low,6,namesilo,,,18/08/2026 09:20
 27b04cd4-25d3-42bd-9d8c-8ff8bc4738aa,day.observer,premium,854,854,high,low,3,namesilo,,,28/09/2026 16:52
+57df2c0f-f710-4d71-82a2-0e3c05c42074,fearing.observer,available,9.85,9.85,medium,low,7,dynadot,,,30/09/2026 15:26
+19920ba6-0a15-4bd6-b352-713b19f36aa8,cilicia.observer,available,9.85,9.85,medium,low,7,dynadot,,,30/09/2026 13:19
 3aa9f797-697d-4839-87a7-e3fd449ea215,blm.observer,premium,10.55,10.55,high,low,3,spaceship,,,29/09/2026 09:47
 3b77dcd0-e288-4668-b8a6-f88e67d5f3ca,dinosaurs.observer,available,10.99,10.99,high,low,9,namesilo,,,29/09/2026 11:13
 c1caeb15-7b77-4aaa-aa8a-6b5b061f4d74,watts.observer,premium,20.9,20.9,high,medium,5,spaceship,,,29/09/2026 19:22
 dfda37d1-e1ae-4d65-88cc-19ad29534308,maas.observer,premium,10.55,10.55,high,low,4,spaceship,,,29/09/2026 21:54
+549d0aba-fcef-4b42-8c80-0c61d10e85b2,telephones.observer,available,9.78,9.78,medium,low,10,porkbun,,,01/10/2026 00:37
+27450f4d-366d-48ed-894b-496ecb152408,revelations.observer,available,10.99,10.99,medium,low,11,namesilo,,,30/09/2026 15:02
 406e4ead-be58-499e-9f68-e9eab1b67e7f,focuses.observer,available,11.98,16.98,medium,low,7,namecheap,,,20/09/2026 21:43
 6bfdc067-f409-458d-b310-f180a00a5db3,elmira.observer,premium,10.55,10.55,medium,low,6,spaceship,,,28/09/2026 16:42
+3e557f4b-b6e2-4320-80fb-1ee9f8e32d9f,unleashed.observer,premium,10.55,10.55,high,low,9,spaceship,,,30/09/2026 16:26
 cc3e61eb-4d01-4b1d-8120-434afdc40512,intensify.observer,available,11.98,16.98,high,low,9,namecheap,,,12/08/2026 19:29
+146fae99-90e9-43a5-be51-d57ee0e9013e,voronezh.observer,premium,1035.2,1035.2,medium,low,8,spaceship,,,30/09/2026 21:25
 8eec7af2-5a68-4d41-a93e-9965c257338f,pimply.observer,available,10.99,10.99,medium,low,6,namesilo,,,
 ea7d4d8f-8b72-496a-9392-071dfa1a9f94,twinkly.observer,available,10.99,10.99,medium,low,7,namesilo,,,09/08/2026 04:13
 db073b56-d78a-49a9-b55d-445db2e5ce70,upwardly.observer,available,10.99,10.99,medium,low,8,namesilo,,,12/09/2026 22:57
@@ -717,6 +775,8 @@ db1f3d71-dfff-497e-9321-9ba7d284c927,replying.observer,available,10.99,10.99,med
 e61fe2d5-1118-4bb9-895f-a1765023d0db,proverb.observer,available,10.99,10.99,high,low,7,namesilo,,,17/09/2026 06:07
 0a17d416-bd68-4466-a6e3-8cedc9430fdc,costly.observer,premium,13,13,high,low,6,namecheap,,,24/09/2026 00:19
 7fb627c2-17d0-4b41-a922-438399761ff4,aim.observer,premium,29.5,29.5,high,medium,3,namesilo,,,25/09/2026 10:01
+e466e08c-9374-4a01-bd04-93ea4f3398df,rizal.observer,available,9.78,9.78,medium,low,5,porkbun,,,30/09/2026 14:01
+33dae66c-4565-4739-859b-1f5a061a7cf7,kingman.observer,premium,,,medium,low,7,,,,30/09/2026 13:59
 29e6d764-75bc-47b5-a715-5ac3def4c001,lowborn.observer,available,10.99,10.99,medium,low,7,namesilo,,,24/08/2026 10:44
 1ac9643d-c643-4d0f-aec2-9a766e8053ac,bardolatry.observer,available,10.99,10.99,medium,low,10,namesilo,,,22/09/2026 05:17
 d35b513e-a2b8-4447-9b76-a2d363a4f098,minority.observer,premium,10.55,10.55,high,low,8,spaceship,,,28/09/2026 14:53
@@ -735,17 +795,17 @@ d81136ee-328a-415f-816c-428ee34be6f2,encounter.observer,available,11.98,16.98,hi
 8e95dbad-ba59-4f17-8b3c-070e91682b2d,masted.observer,available,10.99,10.99,medium,low,6,namesilo,,,24/08/2026 16:45
 ce919d1b-0a63-4d55-8e7e-61e264da47bf,shitless.observer,available,10.99,10.99,high,medium,8,namesilo,,,10/09/2026 06:39
 6e95834e-573f-4bac-9703-48e0b6104ca6,abkhazian.observer,available,10.99,10.99,medium,low,9,namesilo,,,
-6dfc99be-30ee-48d6-83d2-45026d7baa96,petitioner.observer,available,10.99,10.99,high,low,10,namesilo,,,11/09/2026 03:30
+6dfc99be-30ee-48d6-83d2-45026d7baa96,petitioner.observer,available,10.99,10.99,medium,low,10,namesilo,,,11/09/2026 03:30
 232259e5-6c0e-4d0a-8033-ae570f2463c9,francium.observer,available,11.98,16.98,medium,low,8,namecheap,,,20/09/2026 23:59
 3366f42b-f1e9-4824-927a-81cde52ae9c1,genesee.observer,premium,10.55,10.55,medium,low,7,spaceship,,,28/09/2026 08:10
 1ce4943d-b033-4350-87df-d36be93aa9bd,proven.observer,premium,23.6,23.6,high,low,6,namesilo,,,27/09/2026 08:25
 a7eccf3f-bda5-47c3-af5f-cbd2c7d4a199,erstwhile.observer,available,10.99,10.99,medium,low,9,namesilo,,,17/08/2026 13:05
 3432ad8a-8d8f-46d9-909f-703131d7c3b4,flattering.observer,available,10.99,10.99,high,low,10,namesilo,,,18/08/2026 06:57
-69787724-70f1-4b14-a7ff-5f14d9735305,trifling.observer,available,10.99,10.99,high,low,8,namesilo,,,05/09/2026 00:21
-cf474c89-1f3f-4200-b30a-f1a51b627902,explain.observer,premium,11.8,11.8,high,low,7,namesilo,,,
+69787724-70f1-4b14-a7ff-5f14d9735305,trifling.observer,available,10.99,10.99,medium,low,8,namesilo,,,05/09/2026 00:21
+cf474c89-1f3f-4200-b30a-f1a51b627902,explain.observer,premium,10.55,10.55,high,low,7,spaceship,,,30/09/2026 19:34
 885a36bb-1471-43a3-8751-32dc621e75b4,rudiments.observer,available,11.98,16.98,medium,low,9,namecheap,,,22/09/2026 10:41
 7ad03b51-bbb4-4d93-8b61-d128e11ba632,disturbed.observer,available,10.99,10.99,medium,low,9,namesilo,,,11/08/2026 01:48
-150eb434-7a6a-4ee6-99d9-934d66b9926b,conventional.observer,available,9.2,9.2,high,low,12,cloudflare,,,28/09/2026 11:12
+150eb434-7a6a-4ee6-99d9-934d66b9926b,conventional.observer,available,9.2,9.2,medium,low,12,cloudflare,,,28/09/2026 11:12
 692f0210-c607-47f2-9139-1ebcf6f75395,pogge.observer,available,11.98,16.98,medium,low,5,namecheap,,,17/09/2026 19:01
 e4708310-0385-4aa7-91ac-2fe98c59e986,emergencies.observer,available,9.49,9.49,medium,low,11,spaceship,,,29/09/2026 16:56
 144906c4-5e97-4ff7-a22f-4cf3a0061187,francois.observer,available,10.99,10.99,high,low,8,namesilo,,,27/09/2026 07:39
@@ -763,12 +823,14 @@ ed2ac784-63ff-4674-91c9-583c276df220,crap.observer,available,11.98,16.98,medium,
 e1684321-e661-4ec2-acd6-1acd561c61c7,melon.observer,available,9.2,9.2,high,low,5,cloudflare,,,29/09/2026 13:24
 b24a5bec-9a7c-46ea-9270-6b4e01695c4a,vanadium.observer,available,10.99,10.99,medium,low,8,namesilo,,,20/09/2026 22:37
 c13f09b4-3848-4303-b16a-eabfa4885a6d,siding.observer,premium,10.55,10.55,high,low,6,spaceship,,,29/09/2026 20:06
+3b450587-80a6-40ea-891b-86df400b3b3a,intellectuals.observer,available,10.99,10.99,medium,low,13,namesilo,,,01/10/2026 00:59
 660e1e52-7375-4989-8d30-dbce5f3baf1c,bodyguard.observer,available,10.99,10.99,high,low,9,namesilo,,,24/09/2026 06:33
 d23e0c20-04ca-412f-bf3b-a036a4720645,areca.observer,available,10.99,10.99,medium,low,5,namesilo,,,20/09/2026 03:25
 7fe75063-ca91-4398-b7ad-5e4072f1ecb9,scrap.observer,premium,11.8,11.8,high,low,5,namesilo,,,18/08/2026 03:49
 45b56832-8c2d-465e-945e-bb402583b27c,proposal.observer,premium,11.8,11.8,high,low,8,namesilo,,,27/09/2026 04:41
 34cac4df-b1f9-414e-86a6-4070cc4a4b87,pilot.observer,premium,29.5,29.5,high,medium,5,namesilo,,,28/09/2026 19:40
-982a2a89-bf49-473e-8b34-6aa77a538dda,tailed.observer,available,10.99,10.99,high,low,6,namesilo,,,11/09/2026 07:08
+bbc80cce-6600-4bde-bd9f-8453548e7b76,sapporo.observer,premium,1035.2,1035.2,high,low,7,spaceship,,,30/09/2026 10:59
+982a2a89-bf49-473e-8b34-6aa77a538dda,tailed.observer,available,10.99,10.99,medium,low,6,namesilo,,,11/09/2026 07:08
 61eca6bb-b06b-48d6-8247-f28937ec8b6a,alvarado.observer,premium,10.55,10.55,medium,low,8,spaceship,,,28/09/2026 16:06
 b35a37ec-e6f8-4a8f-94a8-b1af4653d896,seventeen.observer,available,11.98,16.98,high,medium,9,namecheap,,,19/09/2026 06:27
 b1e26b3f-1ed2-4ed4-9fa8-faf779611393,generating.observer,available,10.99,10.99,medium,low,10,namesilo,,,
@@ -781,6 +843,8 @@ e2745fe5-5353-4043-b1e4-03edadcdf676,parky.observer,available,10.99,10.99,medium
 7b10807d-c128-4675-a65c-648a378b6461,duffy.observer,premium,11.8,11.8,high,low,5,namesilo,,,29/09/2026 03:40
 6d1b8288-cb04-4787-9183-f0059d36138f,liege.observer,available,10.99,10.99,medium,low,5,namesilo,,,18/08/2026 03:03
 a91fa201-a156-4485-922d-644ff1578912,jones.observer,premium,854,854,high,low,5,namesilo,,,25/09/2026 00:23
+5d6af5c7-ba19-429c-8ac8-e6e53922f356,accessing.observer,available,9.49,9.49,medium,low,9,spaceship,,,30/09/2026 23:12
+f18a186a-3b01-4742-86af-c656fc4a9a7f,haryana.observer,premium,11,11,medium,low,7,dynadot,,,30/09/2026 12:51
 e7a49a5e-58c0-4077-869d-ceea0676acf3,discordant.observer,available,10.99,10.99,medium,low,10,namesilo,,,14/08/2026 10:00
 7152b290-67c0-455e-9cf0-0d523731740d,honours.observer,available,10.99,10.99,high,low,7,namesilo,,,30/09/2026 01:53
 d4a646af-961a-4a8f-8c75-e1532b4d6f0f,audad.observer,available,10.99,10.99,medium,low,5,namesilo,,,18/09/2026 22:16
@@ -789,13 +853,14 @@ d4a646af-961a-4a8f-8c75-e1532b4d6f0f,audad.observer,available,10.99,10.99,medium
 4b3ff0d9-a8af-489a-ae26-6e37499d5cc9,whispered.observer,available,10.99,10.99,high,low,9,namesilo,,,13/09/2026 11:35
 4994df10-8712-4f21-8b96-e5693c9e34f3,affirmed.observer,available,15.99,15.99,high,low,8,name.com,,,17/09/2026 14:27
 a4180e5a-3ee9-4e32-ad54-9ed6e9d9c398,radioactivity.observer,available,10.99,10.99,medium,low,13,namesilo,,,
-bda4a734-730f-4e40-8cf5-df7457a52a82,monopoly.observer,premium,25,,high,low,8,name.com,,,
+bda4a734-730f-4e40-8cf5-df7457a52a82,monopoly.observer,premium,23.6,23.6,high,low,8,namesilo,,,30/09/2026 05:10
 31a1256e-6f84-401a-91bf-9e93c2497e08,particularly.observer,available,10.99,10.99,medium,low,12,namesilo,,,27/09/2026 08:28
 8e6a65fd-b74b-485c-98f5-88bf4c0812b6,parentally.observer,available,11.98,16.98,medium,low,10,namecheap,,,15/09/2026 18:57
+14dfb95e-1dbf-4cf0-8ff9-01f00c65e295,forwarding.observer,available,10.99,10.99,high,low,10,namesilo,,,30/09/2026 09:44
 da313396-a778-4395-ba49-13a079881d6a,nyc.observer,premium,11250,,high,medium,3,name.com,,,
 c53a971f-905e-47f8-9ca1-deb1d4132c65,roster.observer,premium,11,11,high,low,6,dynadot,,,30/09/2026 02:44
 b933f3d3-798f-46b2-8448-1a4cf02691b1,created.observer,available,15.99,,high,low,7,name.com,,,
-d93894ee-21a6-4ee8-8641-bf00174cded5,deepening.observer,available,10.99,10.99,high,low,9,namesilo,,,13/08/2026 23:00
+d93894ee-21a6-4ee8-8641-bf00174cded5,deepening.observer,available,10.99,10.99,medium,low,9,namesilo,,,13/08/2026 23:00
 dd263cfd-22b5-4755-8ad6-f3c1f6e9e853,skyline.observer,premium,1040,1040,high,low,7,namecheap,,,19/09/2026 20:18
 773eae5d-d403-472d-bd8a-581e197e5c5e,bilinear.observer,available,11.98,16.98,high,low,8,namecheap,,,09/08/2026 21:20
 ab0ce5f6-8acf-4d34-8de6-0ba08f9ed77e,depending.observer,available,10.99,10.99,medium,low,9,namesilo,,,27/09/2026 22:26
@@ -807,11 +872,12 @@ db38ea6a-c240-4fb9-bdf6-c35a36b16b78,pertly.observer,available,10.99,10.99,mediu
 872808c3-75ec-430c-be8b-b093a2c127fc,bmw.observer,premium,880,880,high,high,3,dynadot,,,28/09/2026 03:27
 a9eefa6c-2ef8-42d1-82b2-4a90e60b90c5,dionysius.observer,available,9.2,9.2,medium,low,9,cloudflare,,,29/09/2026 06:39
 94c666c5-6f5f-4599-b30c-72e250fb3676,clerical.observer,available,10.99,10.99,high,low,8,namesilo,,,12/08/2026 10:48
+d10786b5-55f8-4cbc-8268-e73a4c35c564,ravens.observer,premium,11.8,11.8,medium,low,6,namesilo,,,30/09/2026 07:01
 4969f8b4-436c-430f-8824-a4f25e80f143,acousma.observer,available,11.98,16.98,medium,low,7,namecheap,,,17/09/2026 02:29
-88f3c6e0-7b46-4970-8cf8-a2972a1f014c,strict.observer,premium,11.8,11.8,high,low,6,namesilo,,,21/08/2026 00:17
+88f3c6e0-7b46-4970-8cf8-a2972a1f014c,strict.observer,premium,11.8,11.8,medium,low,6,namesilo,,,21/08/2026 00:17
 f91b15b1-6e61-4c91-859e-ba48b522c31c,myoid.observer,available,10.99,10.99,low,low,5,namesilo,,,03/09/2026 12:10
 3285122b-2e75-4c28-8d11-713e47347808,examiner.observer,premium,,,high,low,8,,,,28/09/2026 14:05
-1bc44b47-f384-4388-9eda-66ea4321a1b7,corking.observer,available,10.99,10.99,high,low,7,namesilo,,,08/08/2026 12:20
+1bc44b47-f384-4388-9eda-66ea4321a1b7,corking.observer,available,10.99,10.99,medium,low,7,namesilo,,,08/08/2026 12:20
 665f9e0c-0c2c-417a-9fb7-b1550a149f2c,ias.observer,premium,,,high,low,3,,,,29/09/2026 21:40
 38c1a4da-4ca2-492e-a2da-02657166635f,babyish.observer,available,10.99,10.99,medium,low,7,namesilo,,,08/08/2026 03:53
 9397602c-30ee-404d-b14e-b5a0adddd3c4,felted.observer,available,10.99,10.99,medium,low,6,namesilo,,,18/08/2026 01:00
@@ -837,7 +903,7 @@ e9d5d280-dc8f-4227-aac4-17ad26f5fe42,westport.observer,premium,828.2,828.2,mediu
 598a7db5-55ca-47f9-98d4-0c1341648d10,web.observer,premium,828.2,828.2,high,medium,3,spaceship,,,28/09/2026 08:08
 faf7880b-729c-4553-a667-cb9f61b3777f,sulky.observer,available,10.99,10.99,medium,low,5,namesilo,,,20/08/2026 14:46
 409ab721-6e78-4f8b-8576-8a57ff158049,taxable.observer,available,11.98,16.98,medium,low,7,namecheap,,,03/09/2026 19:07
-ddef42e4-23eb-46a2-b7b4-221bbc8bd9a2,network.observer,premium,1040,1040,high,medium,7,namecheap,,,29/09/2026 00:39
+ddef42e4-23eb-46a2-b7b4-221bbc8bd9a2,network.observer,premium,828.2,828.2,high,medium,7,spaceship,,,30/09/2026 20:55
 6bae9c94-72b1-43c1-8bf5-b1e814a1b75f,kraus.observer,premium,11.8,11.8,medium,low,5,namesilo,,,29/09/2026 03:34
 ecd6e393-bcd4-4a0c-afce-275d400ef4d3,original.observer,premium,23.6,23.6,high,low,8,namesilo,,,26/09/2026 00:32
 93fc86c2-daba-4560-92d8-b23c28e8fdbd,circumstances.observer,available,10.99,10.99,medium,low,13,namesilo,,,27/09/2026 02:27
@@ -851,13 +917,16 @@ eef841b0-8655-4ae0-9fd9-b47b32a3a4d0,cxxx.observer,available,,,high,low,4,,,,
 69d0772b-61e8-4d67-84f6-b36e976f5d9b,disposition.observer,premium,10.55,10.55,high,low,11,spaceship,,,29/09/2026 02:57
 7af4a7c9-fa92-43ab-8c59-bc365bbc4fbc,measurable.observer,available,11.98,16.98,high,low,10,namecheap,,,24/08/2026 18:27
 243fab48-77c4-4771-a746-2aed5abbca08,chopped.observer,available,10.99,10.99,high,low,7,namesilo,,,12/08/2026 06:57
-871adcb0-77db-4a59-85b1-18b250ef3e4e,abidance.observer,available,10.99,10.99,high,low,8,namesilo,,,16/09/2026 15:33
+871adcb0-77db-4a59-85b1-18b250ef3e4e,abidance.observer,available,10.99,10.99,medium,low,8,namesilo,,,16/09/2026 15:33
+17d70415-615d-4776-805e-c7911370d59b,mainframe.observer,available,10.99,10.99,high,low,9,namesilo,,,01/10/2026 01:14
 cbf00065-c79f-4e63-a9fe-7c376fb8eccf,forth.observer,available,10.99,10.99,high,low,5,namesilo,,,22/09/2026 14:59
 85d29d9d-c3f5-4973-8473-08250a685b5d,tierce.observer,available,10.99,10.99,medium,low,6,namesilo,,,
 012b7024-394d-406d-8fcb-bf0e2cd2321e,chemicals.observer,premium,11.8,11.8,medium,low,9,namesilo,,,28/09/2026 08:24
 fc56768f-b233-407b-8720-01d1d937cab0,rewarding.observer,premium,13,13,high,low,9,namecheap,,,27/09/2026 14:47
 5ee888c1-cde5-41b4-a78b-7a5a54743a79,convexly.observer,available,10.99,10.99,medium,low,8,namesilo,,,14/09/2026 08:39
+c5fe671c-f715-46f7-b283-eaf9cccf0ea9,idaho.observer,premium,1107,1107,high,low,5,namesilo,,,01/10/2026 02:17
 d37f2288-2b36-4fcc-9e6d-a0e897602ae5,restraining.observer,available,9.49,9.49,medium,low,11,spaceship,,,29/09/2026 03:20
+9c934811-a8ec-4168-9129-1254393fd572,dosage.observer,available,9.49,9.49,high,low,6,spaceship,,,30/09/2026 17:03
 5910af09-11e0-405b-a223-973c0197f969,agnathan.observer,available,11.98,16.98,medium,low,8,namecheap,,,17/09/2026 18:33
 c2a5adbe-465d-47ff-9e64-42703ac262d6,deficient.observer,available,10.99,10.99,medium,low,9,namesilo,,,13/08/2026 23:22
 dfb711d0-01eb-4c1e-abe0-bcdb992c1b10,antinomy.observer,available,10.99,10.99,medium,low,8,namesilo,,,19/09/2026 14:49
@@ -885,11 +954,11 @@ ac2fc52f-5f22-42f5-80d4-115544292c38,angling.observer,available,10.99,10.99,high
 dd876cef-1f75-496b-84e8-104166253bc3,tropical.observer,premium,1040,1040,high,low,8,namecheap,,,11/09/2026 20:24
 5c06c67c-d231-496b-a471-72d9a2edd194,brice.observer,premium,11.44,11.44,medium,low,5,porkbun,,,29/09/2026 14:56
 2fe606d7-c1ce-4d7b-9545-1c8afce6e80e,steely.observer,available,10.99,10.99,medium,low,6,namesilo,,,10/09/2026 19:47
-09c75737-0396-46db-b840-afcd538dc0e7,restrain.observer,available,10.99,10.99,high,low,8,namesilo,,,30/09/2026 03:00
+09c75737-0396-46db-b840-afcd538dc0e7,restrain.observer,available,10.99,10.99,medium,low,8,namesilo,,,30/09/2026 03:00
 554ef2c1-4324-4b92-82c8-94e88da50283,numbat.observer,available,10.99,10.99,medium,low,6,namesilo,,,22/09/2026 01:07
 85890364-0b11-482c-ab52-379562b7e1a0,morley.observer,premium,11.8,11.8,high,low,6,namesilo,,,25/09/2026 05:08
 b69a4274-b46c-45b8-87a8-c2e2523541bc,draconian.observer,available,11.98,16.98,medium,low,9,namecheap,,,14/08/2026 18:10
-a2d4fcd8-efb8-4e15-83c2-763ac9f75fb6,guggenheim.observer,available,10.99,10.99,high,low,10,namesilo,,,27/09/2026 04:18
+a2d4fcd8-efb8-4e15-83c2-763ac9f75fb6,guggenheim.observer,available,10.99,10.99,medium,low,10,namesilo,,,27/09/2026 04:18
 2c6d4815-6b7a-4d94-8a42-0fc6fc2320cb,teary.observer,available,10.99,10.99,medium,low,5,namesilo,,,11/09/2026 09:50
 65421a7d-376b-4c87-8b85-9b7758c09e62,dionysia.observer,available,10.99,10.99,high,low,8,namesilo,,,21/09/2026 13:58
 f789411a-f00a-4c48-a015-67414a6f2b58,phrasal.observer,available,11.98,16.98,high,medium,7,namecheap,,,08/09/2026 19:19
@@ -902,6 +971,7 @@ eccbbc10-5917-492b-a1ea-2d3f0f1b7b69,collapse.observer,available,9.49,9.49,high,
 81908b36-9e96-4c32-8935-a4e7f54e7ce6,slapstick.observer,available,10.99,10.99,high,low,9,namesilo,,,10/09/2026 10:03
 0a4b155d-a9a2-49fe-b3d0-f9b4ea49bec9,lepanto.observer,premium,13,13,medium,low,7,namecheap,,,22/09/2026 15:21
 d38db6a8-dc75-4211-805f-cec64aa782f6,alan.observer,premium,23.6,23.6,high,low,4,namesilo,,,25/09/2026 11:29
+7a0d76c4-0cca-4520-81e7-9d77e355c23d,havoc.observer,available,10.99,10.99,high,low,5,namesilo,,,30/09/2026 10:05
 f2713ca7-7ea2-4670-86fc-4d6cbef33195,accurst.observer,available,10.99,10.99,medium,low,7,namesilo,,,
 a200c4ed-8e67-4c2a-bbb8-56d9279a2e28,argali.observer,available,10.99,10.99,medium,low,6,namesilo,,,20/09/2026 04:09
 752067e7-fa29-42a2-b82d-11af8e65ecbe,avo.observer,premium,11.8,11.8,high,low,3,namesilo,,,21/09/2026 09:36
@@ -909,93 +979,23 @@ b927787d-2578-4743-9754-51f7e6ec5865,chiefs.observer,available,10.99,10.99,mediu
 61a63494-bd72-472f-9604-0c87cfd6e419,branched.observer,available,11.98,16.98,high,low,8,namecheap,,,09/08/2026 20:12
 981eae98-d7ec-4214-b5d4-11c948b21751,curative.observer,available,11.98,16.98,high,low,8,namecheap,,,22/09/2026 02:19
 83ac1fc4-7406-4e19-8e41-923fde76e2cb,cosmologic.observer,available,10.99,10.99,medium,low,10,namesilo,,,13/08/2026 02:56
-83a290b9-31b4-4a9c-8a45-9af760d81f01,orleans.observer,premium,29.5,29.5,high,low,7,namesilo,,,
+3c8d8432-4a25-4475-98e9-be2838fae342,woodwork.observer,available,11.98,16.98,high,low,8,namecheap,,,30/09/2026 16:36
+83a290b9-31b4-4a9c-8a45-9af760d81f01,orleans.observer,premium,32.5,32.5,high,low,7,namecheap,,,30/09/2026 06:15
 b3af9525-d8db-4f7e-a2cc-52366a5acae5,ratified.observer,available,10.99,10.99,high,medium,8,namesilo,,,09/09/2026 10:33
+97643e17-ced5-4353-9eb4-b4befdf9be62,dcs.observer,premium,10.55,10.55,high,low,3,spaceship,,,30/09/2026 20:17
 4c45bed5-1802-4e90-944a-b0a1172c9c26,campanula.observer,available,10.99,10.99,high,low,9,namesilo,,,23/09/2026 06:05
 29550ffe-e396-4372-9a37-ebe7c992998b,widowed.observer,available,9.49,9.49,medium,low,7,spaceship,,,28/09/2026 10:37
 b8bce878-f9f0-4eae-85a1-7038fef0ec3f,benighted.observer,available,10.99,10.99,low,low,9,namesilo,,,08/09/2026 09:10
 f0bcd373-08a7-4039-b72c-48a9d889cea3,loco.observer,premium,25,25,high,low,4,name.com,,,06/08/2026 21:13
 68f03be5-1aa7-4cc6-9b59-7f29b364feb2,baboo.observer,available,11.98,16.98,high,low,5,namecheap,,,21/09/2026 12:51
-29fb8452-53f7-4527-981e-c7ae35f607aa,consolation.observer,available,9.2,9.2,high,low,11,cloudflare,,,28/09/2026 22:58
+29fb8452-53f7-4527-981e-c7ae35f607aa,consolation.observer,available,9.2,9.2,medium,low,11,cloudflare,,,28/09/2026 22:58
 deafe4b7-a830-4bc6-9e13-6049818c4d01,norbert.observer,premium,11.8,11.8,medium,low,7,namesilo,,,28/09/2026 22:05
 ee4ec12c-b11a-4b48-bcbc-a0f62cdd2a88,apollo.observer,premium,29.5,29.5,high,medium,6,namesilo,,,19/09/2026 18:42
 22f44e4d-09e5-4350-a4dd-b718512b0945,cant.observer,available,10.99,10.99,medium,low,4,namesilo,,,13/09/2026 04:09
 3ed6dbd7-0fcd-4b49-95dd-3c94f9448634,eyestrain.observer,available,11.98,16.98,medium,low,9,namecheap,,,20/09/2026 17:21
 f43d1f42-d641-4120-a42e-dea69b7046cc,singles.observer,premium,,,high,low,7,,,,28/09/2026 20:28
 9df4d1a5-6cc2-478b-b068-56cbb57e2d01,scold.observer,available,10.99,10.99,high,low,5,namesilo,,,24/09/2026 16:34
-fc52e214-67fb-4f40-b436-4989a9308215,webby.observer,available,10.99,10.99,high,low,5,namesilo,,,03/09/2026 16:08
+fc52e214-67fb-4f40-b436-4989a9308215,webby.observer,available,10.99,10.99,medium,low,5,namesilo,,,03/09/2026 16:08
 70eb194b-91b9-4ad5-93d3-475206d3220b,netted.observer,available,10.99,10.99,medium,low,6,namesilo,,,03/09/2026 16:02
 f9514740-7f73-4377-9e3f-0f5b02ea14a8,outdated.observer,available,10.99,10.99,medium,low,8,namesilo,,,26/09/2026 03:15
 75500246-e4ad-466b-b70a-2b392d3cd62f,saba.observer,premium,26.08,26.08,high,low,4,spaceship,,,29/09/2026 02:04
-736c3f53-3095-4829-9803-281d5ae443f5,sorted.observer,available,11.98,16.98,high,low,6,namecheap,,,20/08/2026 20:24
-8518538c-6a98-490b-aa15-0d2e2f49f359,parsimony.observer,available,10.99,10.99,medium,low,9,namesilo,,,08/09/2026 14:39
-53df0cd3-e063-426c-8cdc-57a22108cb9c,edifying.observer,available,10.99,10.99,high,low,8,namesilo,,,15/08/2026 10:17
-50241747-2ae4-4696-b713-985e3c346f90,unity.observer,premium,29.5,29.5,high,medium,5,namesilo,,,21/09/2026 10:47
-35c65d48-f86b-4dd0-8d55-6b436abe84ff,raisable.observer,available,10.99,10.99,high,medium,8,namesilo,,,09/09/2026 09:51
-d9069033-fdca-4c5e-8686-fce844cf2ecf,louis.observer,premium,23.6,23.6,high,low,5,namesilo,,,25/09/2026 07:59
-88342f52-caa3-4997-911d-6f0c27de14ba,heroism.observer,available,9.2,9.2,high,low,7,cloudflare,,,29/09/2026 18:59
-a94ec0a7-de75-4ba8-8e41-d86b8dfc5e30,ounce.observer,available,9.49,9.49,high,low,5,spaceship,,,28/09/2026 21:44
-efa17607-5251-4f39-abdf-acc32306414c,crisis.observer,premium,13,13,high,low,6,namecheap,,,24/09/2026 19:30
-fa2df6f6-e2e9-42e3-bf4e-23c041b72280,freezing.observer,available,10.99,10.99,high,low,8,namesilo,,,25/09/2026 06:10
-7b29e152-3f4b-4582-ad99-51b9955a181b,esteem.observer,premium,10.55,10.55,high,low,6,spaceship,,,28/09/2026 18:46
-8833ba12-0061-463d-a19f-2b4018de7c1b,dates.observer,premium,854,854,high,low,5,namesilo,,,18/09/2026 18:40
-49d2f516-3e96-41d9-aef3-ef4d2da2b813,gettysburg.observer,premium,11.8,11.8,medium,low,10,namesilo,,,22/09/2026 15:05
-2bc53815-6287-45ed-89c1-9bab09d7840d,leone.observer,premium,11.44,11.44,high,low,5,porkbun,,,29/09/2026 19:32
-b17a7d34-0faf-4270-b6b9-b97b2824d1cb,antonymous.observer,available,10.99,10.99,medium,low,10,namesilo,,,05/08/2026 20:16
-4cc019dc-3b99-4103-91b5-642ba8a09cde,explaining.observer,available,10.99,10.99,high,low,10,namesilo,,,27/09/2026 22:18
-f00af0bd-a34a-477f-b039-ea2e8200d834,listens.observer,available,9.49,9.49,medium,low,7,spaceship,,,29/09/2026 11:31
-9a553699-6bc9-44cd-9c75-c3a2dca546c9,treating.observer,available,11.98,16.98,high,low,8,namecheap,,,28/09/2026 08:47
-93a19351-feb5-4d82-a87c-861c2c33221d,maddening.observer,available,10.99,10.99,medium,low,9,namesilo,,,17/08/2026 15:55
-eb47e4e4-b3a1-4418-ab62-7550153f51d5,paraguayan.observer,available,10.99,10.99,medium,low,10,namesilo,,,08/09/2026 00:55
-0a915e53-fade-42c4-8e23-4a5d28a876ab,scientists.observer,premium,11.8,11.8,high,low,10,namesilo,,,27/09/2026 11:19
-6cd2df74-1d7e-4bf2-a4a1-460e6f9f1614,lackawanna.observer,premium,10.55,10.55,medium,low,10,spaceship,,,28/09/2026 16:52
-66a58d2d-d4c9-4af9-acc3-c5b2ad88fbdb,asterisk.observer,available,10.99,10.99,high,low,8,namesilo,,,20/09/2026 17:11
-afd2338a-5836-417b-86f5-56053ab7bb7c,phocine.observer,available,11.98,16.98,medium,low,7,namecheap,,,08/09/2026 18:58
-000acae1-26f6-47b7-a5d0-f8dc1ddf1ff0,mothafucker.observer,available,10.99,10.99,medium,low,11,namesilo,,,
-4fd226e1-35ab-4dc5-b094-2e82cd1daebd,taipei.observer,premium,1107,1107,high,low,6,namesilo,,,29/09/2026 07:03
-25710770-c257-4971-912c-5fb407e18507,kruger.observer,premium,,,medium,low,6,,,,29/09/2026 01:31
-98f528f0-2869-4fd0-9b0b-fee80e9eb500,photocopying.observer,available,10.99,10.99,medium,low,12,namesilo,,,20/09/2026 03:35
-82fea7a2-905c-4cf4-b596-cc955a5e5370,bombay.observer,premium,10.55,10.55,medium,low,6,spaceship,,,29/09/2026 00:15
-e485d5ec-30fe-4f81-8acd-99d6222dfcfa,trousers.observer,available,10.99,10.99,high,low,8,namesilo,,,
-2ff3b1ea-8cf4-437b-b79f-b7bebc95f2cc,wellington.observer,premium,854,854,high,low,10,namesilo,,,20/09/2026 11:08
-66d48362-d089-4e5c-8651-86fed6fa5e38,cpc.observer,premium,,,high,low,3,,,,28/09/2026 16:33
-87f895b5-7878-4d2e-a842-b70f7e7150fd,onshore.observer,premium,11.8,11.8,high,low,7,namesilo,,,22/08/2026 06:55
-eb0fabdb-5670-4004-be11-74254abc8b19,canned.observer,available,10.99,10.99,high,low,6,namesilo,,,11/08/2026 17:10
-140cd663-57de-4f57-b5fc-8e0783965059,checks.observer,premium,13,13,high,low,6,namecheap,,,25/09/2026 20:11
-83f1c160-f2de-441f-ab64-602fdd8296be,amenia.observer,premium,13,13,medium,low,6,namecheap,,,18/09/2026 18:47
-bfdd979a-4e0a-4581-823d-0bc52d7dd196,corky.observer,available,10.99,10.99,high,low,5,namesilo,,,13/08/2026 01:23
-ad354640-46d7-4991-8496-06edc1819745,scenario.observer,available,11.98,16.98,high,low,8,namecheap,,,28/09/2026 06:43
-bf6d4abd-94a3-4122-917b-1d016d471d46,salacious.observer,available,10.99,10.99,medium,low,9,namesilo,,,23/08/2026 00:40
-f30a60d6-ebeb-42fd-97f1-8cca691069c0,bard.observer,premium,11.8,11.8,high,medium,4,namesilo,,,22/09/2026 05:09
-e6694d77-6880-4749-8b19-381ac7db96e4,sarawak.observer,premium,10.55,10.55,medium,low,7,spaceship,,,28/09/2026 15:18
-13dab109-42a5-424e-8a50-5aa1c7425a49,anthropic.observer,available,,,high,high,9,,,,
-b8e67a76-2a2f-4e46-a27d-9636c60f0c16,breakfasts.observer,available,10.99,10.99,medium,low,10,namesilo,,,20/09/2026 13:21
-7cb23a54-1ec2-479b-a9af-fd74ce87fba6,withstand.observer,available,9.49,9.49,high,low,9,spaceship,,,29/09/2026 14:12
-ff2e8b4e-9af4-45c4-bf16-6169129ff1de,sinking.observer,available,9.2,9.2,high,low,7,cloudflare,,,28/09/2026 06:45
-a547389b-1932-4c13-a4d8-2b624c1aad10,outright.observer,available,10.99,10.99,high,low,8,namesilo,,,04/09/2026 19:35
-d72e7253-86de-48ee-a566-bd87ed23039d,postage.observer,available,9.85,9.85,high,low,7,dynadot,,,29/09/2026 20:01
-e67054eb-5fbc-4f78-b6c4-876378d6d3ce,neem.observer,available,10.99,10.99,high,low,4,namesilo,,,20/09/2026 05:40
-af1d7a06-f6a0-4802-b13e-e069c539301f,textual.observer,available,10.99,10.99,high,low,7,namesilo,,,11/09/2026 12:20
-7c9f4f6d-ebb4-4b28-a594-508bbca32f9e,dolores.observer,premium,10.55,10.55,medium,low,7,spaceship,,,28/09/2026 21:59
-f3e30cab-e1d1-4736-9b7f-34b0cdde3a4f,peck.observer,premium,11.8,11.8,high,low,4,namesilo,,,25/08/2026 00:37
-71c806cf-909d-4967-9c6a-94f0747eddec,page.observer,premium,854,854,high,low,4,namesilo,,,
-549345df-ba85-45cc-93f5-9f1a86709938,manufacturer.observer,available,9.49,9.49,medium,low,12,spaceship,,,28/09/2026 20:59
-d4b85347-83f6-4c8b-85d8-d43934db3d8a,wallpaper.observer,available,9.85,9.85,high,low,9,dynadot,,,29/09/2026 08:18
-74652280-d4fb-497c-9a4b-06145bc995f8,pinked.observer,available,10.99,10.99,medium,low,6,namesilo,,,20/09/2026 15:51
-28c768b5-f699-4a4b-9711-cfa71858b4d4,ambrosian.observer,available,10.99,10.99,high,low,9,namesilo,,,
-c10c99fe-d621-4d15-99bc-58f7d2098b42,stretched.observer,available,10.99,10.99,high,low,9,namesilo,,,10/09/2026 22:34
-81b3b9b0-fc9d-4daa-9c37-0ef0a859a00e,cloves.observer,available,11.98,16.98,medium,low,6,namecheap,,,17/09/2026 13:15
-7050c25f-ca60-48fd-8d29-598b5dcb3da9,victual.observer,available,11.98,16.98,medium,low,7,namecheap,,,12/08/2026 18:51
-319e0355-aa34-4f40-bb00-e22833b1a385,talented.observer,available,10.99,10.99,high,low,8,namesilo,,,18/08/2026 23:26
-78c8cf65-a5cd-4718-94e5-9b757724680b,brainsick.observer,available,10.99,10.99,low,low,9,namesilo,,,11/08/2026 01:45
-b05c0655-5f1b-49eb-a2e6-5f0895c3a0b6,honesty.observer,premium,10.55,10.55,high,low,7,spaceship,,,28/09/2026 06:00
-be39a1cc-425d-419b-b70e-63879edec4c1,tomas.observer,premium,11.44,11.44,medium,low,5,porkbun,,,28/09/2026 04:37
-cda5914b-05a2-4eac-aed8-26a829b6d203,beaded.observer,available,10.99,10.99,medium,low,6,namesilo,,,09/08/2026 03:18
-d0a8d520-65b9-4ae0-bd1d-c9ba92227d16,losers.observer,available,9.49,9.49,medium,low,6,spaceship,,,28/09/2026 04:59
-8a0802db-7ca9-4c7d-8090-1ceb8d367c54,curfew.observer,available,11.98,16.98,high,low,6,namecheap,,,24/09/2026 20:27
-fac02fb8-1ef7-44a2-a0f2-2c26291331d4,pastoral.observer,available,10.99,10.99,high,low,8,namesilo,,,06/08/2026 14:20
-08069561-a53b-4e49-b420-392db456b73b,juicy.observer,premium,13,13,high,low,5,namecheap,,,18/08/2026 19:59
-7349f07b-eafd-4b9c-bb90-801c629e5dc2,rouser.observer,available,11.98,16.98,medium,low,6,namecheap,,,20/09/2026 08:33
-e5076a4c-dba1-4691-9ddf-2066ef9ac26d,jungian.observer,available,10.99,10.99,high,low,7,namesilo,,,22/08/2026 14:24
-72530b11-80cc-41bf-bad1-aa7539b7819a,insulted.observer,available,9.78,9.78,low,low,8,porkbun,,,28/09/2026 23:30
-5cb3d339-1c25-4de0-9a94-a6b03817d53e,recovery.observer,premium,29.5,29.5,high,low,8,namesilo,,,08/09/2026 13:21
