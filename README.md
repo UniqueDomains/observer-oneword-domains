@@ -1,10 +1,10 @@
-# Available .OBSERVER One-Word Domains (31,961)
+# Available .OBSERVER One-Word Domains (33,522)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C961%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C522%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .observer one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,961 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **33,522 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,961 domains · **Median ask:** $77.76 · **High-demand under $2,500:** 70
+**Public extract:** 1,000 rows · **Live catalog:** 33,522 domains · **Median ask:** $76.35 · **High-demand under $2,500:** 71
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/observer`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| ache.observer | available | $10.99    | $10.99        | medium         | low    | 4      | namesilo  |
-| abm.observer  | premium   | $11.80    | $11.80        | high           | low    | 3      | namesilo  |
-| akee.observer | available | $15.99    | $15.99        | medium         | low    | 4      | name.com  |
-| ada.observer  | premium   | $26.08    | $26.08        | high           | medium | 3      | spaceship |
-| alir.observer | available | $10.99    | $10.99        | medium         | low    | 4      | namesilo  |
-| aga.observer  | premium   | $11.80    | $11.80        | high           | low    | 3      | namesilo  |
-| ards.observer | available | $10.99    | $10.99        | medium         | low    | 4      | namesilo  |
-| aim.observer  | premium   | $29.50    | $29.50        | high           | medium | 3      | namesilo  |
-| aunt.observer | available | $10.99    | $10.99        | high           | low    | 4      | namesilo  |
-| amd.observer  | premium   | $11.80    | $11.80        | high           | low    | 3      | namesilo  |
-| bias.observer | available | $10.99    | $10.99        | high           | low    | 4      | namesilo  |
-| avo.observer  | premium   | $11.80    | $11.80        | high           | low    | 3      | namesilo  |
-| braw.observer | available | $10.99    | $10.99        | medium         | low    | 4      | namesilo  |
-| blm.observer  | premium   | $10.55    | $10.55        | high           | low    | 3      | spaceship |
-| cant.observer | available | $10.99    | $10.99        | medium         | low    | 4      | namesilo  |
-| bmw.observer  | premium   | $880      | $880          | high           | high   | 3      | dynadot   |
-| crap.observer | available | $11.98    | $16.98        | medium         | low    | 4      | namecheap |
-| day.observer  | premium   | $854      | $854          | high           | low    | 3      | namesilo  |
-| dame.observer | available | $11.98    | $16.98        | high           | low    | 4      | namecheap |
-| dcs.observer  | premium   | $10.55    | $10.55        | high           | low    | 3      | spaceship |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| think.observer   | premium   | $1,040    | $1,040        | high           | medium | 5      | namecheap |
+| balance.observer | premium   | $11       | $11           | high           | low    | 7      | dynadot   |
+| match.observer   | premium   | $880      | $880          | high           | medium | 5      | dynadot   |
+| action.observer  | premium   | $854      | $854          | high           | medium | 6      | namesilo  |
+| ache.observer    | available | $10.99    | $10.99        | medium         | low    | 4      | namesilo  |
+| abm.observer     | premium   | $11.80    | $11.80        | high           | low    | 3      | namesilo  |
+| akee.observer    | available | $15.99    | $15.99        | medium         | low    | 4      | name.com  |
+| ada.observer     | premium   | $26.08    | $26.08        | high           | medium | 3      | spaceship |
+| alir.observer    | available | $10.99    | $10.99        | medium         | low    | 4      | namesilo  |
+| aga.observer     | premium   | $11.80    | $11.80        | high           | low    | 3      | namesilo  |
+| ards.observer    | available | $10.99    | $10.99        | medium         | low    | 4      | namesilo  |
+| aim.observer     | premium   | $29.50    | $29.50        | high           | medium | 3      | namesilo  |
+| aunt.observer    | available | $10.99    | $10.99        | high           | low    | 4      | namesilo  |
+| amd.observer     | premium   | $11.80    | $11.80        | high           | low    | 3      | namesilo  |
+| bias.observer    | available | $10.99    | $10.99        | high           | low    | 4      | namesilo  |
+| bbb.observer     | premium   | $11.44    | $11.44        | high           | low    | 3      | porkbun   |
+| braw.observer    | available | $10.99    | $10.99        | medium         | low    | 4      | namesilo  |
+| blm.observer     | premium   | $10.55    | $10.55        | high           | low    | 3      | spaceship |
+| crap.observer    | available | $11.98    | $16.98        | medium         | low    | 4      | namecheap |
+| bmw.observer     | premium   | $880      | $880          | high           | high   | 3      | dynadot   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,961 live domains                        |
+| 1,000-row public sample | 33,522 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 70 high-demand names under $2,500          |
+| Basic exported fields   | 71 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .OBSERVER One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .OBSERVER One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
